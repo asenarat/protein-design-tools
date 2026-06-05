@@ -1,0 +1,41 @@
+seed_url,display_name,keyword
+https://github.com/aqlaboratory/openfold,OpenFold,alphafold2
+https://github.com/aqlaboratory/openfold,OpenFold,protein-structure
+https://github.com/aqlaboratory/openfold,OpenFold,pytorch
+https://github.com/jwohlwend/boltz,Boltz,binding-prediction
+https://github.com/jwohlwend/boltz,Boltz,drug-discovery
+https://github.com/jwohlwend/boltz,Boltz,protein-structure
+https://github.com/martinpacesa/BindCraft,BindCraft,alphafold2
+https://github.com/martinpacesa/BindCraft,BindCraft,binder
+https://github.com/martinpacesa/BindCraft,BindCraft,design
+https://github.com/martinpacesa/BindCraft,BindCraft,protein
+https://github.com/martinpacesa/BindCraft,BindCraft,pyrosetta
+https://github.com/NatLabRockies/EvoProtGrad,EvoProtGrad,directed-evolution
+https://github.com/NatLabRockies/EvoProtGrad,EvoProtGrad,huggingface
+https://github.com/NatLabRockies/EvoProtGrad,EvoProtGrad,mcmc
+https://github.com/NatLabRockies/EvoProtGrad,EvoProtGrad,protein-engineering
+https://github.com/NatLabRockies/EvoProtGrad,EvoProtGrad,protein-language-model
+https://github.com/RosettaCommons/rosetta,Rosetta,antibody-design
+https://github.com/RosettaCommons/rosetta,Rosetta,enzyme-design
+https://github.com/RosettaCommons/rosetta,Rosetta,macromolecular-modeling
+https://github.com/RosettaCommons/rosetta,Rosetta,protein-design
+https://github.com/RosettaCommons/rosetta,Rosetta,protein-structure
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),dna
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),google-colab
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),jupyter-notebook
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),protein-design
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),protein-docking
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),protein-folding
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),protein-structure-prediction
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),pyrosetta
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),rna-structure-prediction
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),rosetta
+https://github.com/biopython/biopython,Biopython,bioinformatics
+https://github.com/biopython/biopython,Biopython,biopython
+https://github.com/biopython/biopython,Biopython,dna
+https://github.com/biopython/biopython,Biopython,genomics
+https://github.com/biopython/biopython,Biopython,phylogenetics
+https://github.com/biopython/biopython,Biopython,protein
+https://github.com/biopython/biopython,Biopython,protein-structure
+https://github.com/biopython/biopython,Biopython,python
+https://github.com/biopython/biopython,Biopython,sequence-alignment

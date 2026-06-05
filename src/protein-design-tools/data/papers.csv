@@ -1,0 +1,8 @@
+seed_url,display_name,doi,title,date_published,infoscience_id
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://doi.org/10.1038/s41586-024-07601-y,Computational design of soluble and functional membrane protein analogues,2024-07-11,6eaa82f4-6550-4e17-bb5c-e958c5616a28
+https://github.com/martinpacesa/BindCraft,BindCraft,https://doi.org/10.1101/2024.09.30.615802,BindCraft: one-shot design of functional protein binders,2024-10-01,a33f4490-beab-4f2f-96d9-29da52506b74
+https://github.com/martinpacesa/BindCraft,BindCraft,https://doi.org/10.1038/s41586-025-09429-6,One-shot Design of Functional Protein Binders with Bindcraft,2025-08-27,ac4a0eaa-fdd6-4472-b4f1-a40d683cd2d1
+https://github.com/martinpacesa/BindCraft,BindCraft,https://doi.org/10.1063/4.0000965,Applications and properties of computationally designed de novo proteins,2025-09-01,158454cd-d33e-4a08-af4d-add1cca4e9dc
+https://github.com/RosettaCommons/rosetta,Rosetta,https://doi.org/10.1038/s41592-020-0848-2,Macromolecular modeling and design in Rosetta: recent methods and frameworks,2020-06-01,a58b8cbc-da62-445b-8fd9-0d544123f0a6
+https://github.com/RosettaCommons/rosetta,Rosetta,https://doi.org/10.1021/acs.biochem.0c00912,Modeling Immunity with Rosetta: Methods for Antibody and Antigen Design,2021-03-23,f35b7414-768c-4128-8afd-e155c50e0fc1
+https://github.com/RosettaCommons/rosetta,Rosetta,https://doi.org/10.64898/2026.03.26.714397,Strategic template filtering accelerates fragment-based peptide docking,2026-03-30,98eb03b1-e981-42ec-9fad-2d580690d087

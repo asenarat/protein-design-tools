@@ -1,0 +1,154 @@
+seed_url,display_name,ror_uri,ror_name,contributor_count
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/google-deepmind,google-deepmind,0
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://ror.org/00971b260,Google DeepMind (United Kingdom),0
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://ror.org/01tgmhj36,Coventry University,1
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://ror.org/04d06q394,Google (Canada),1
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://ror.org/02jx3x895,University College London,1
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://ror.org/002h8g185,University of Bath,1
+https://github.com/RosettaCommons/RoseTTAFold,RoseTTAFold,https://github.com/RosettaCommons,RosettaCommons,0
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/aqlaboratory,aqlaboratory,0
+https://github.com/aqlaboratory/openfold,OpenFold,https://ror.org/023aw9j89,Agency for Quality Assurance and Accreditation Austria,0
+https://github.com/aqlaboratory/openfold,OpenFold,https://ror.org/01526xe10,Boston Consulting Group (United States),1
+https://github.com/aqlaboratory/openfold,OpenFold,https://ror.org/05gq02987,Brown University,1
+https://github.com/aqlaboratory/openfold,OpenFold,https://ror.org/02s04h872,D. E. Shaw Research,1
+https://github.com/aqlaboratory/openfold,OpenFold,https://ror.org/03vek6s52,Harvard University,1
+https://github.com/aqlaboratory/openfold,OpenFold,https://ror.org/04a9tmd77,Icahn School of Medicine at Mount Sinai,1
+https://github.com/aqlaboratory/openfold,OpenFold,https://ror.org/02en65a92,Open Molecular Software Foundation,1
+https://github.com/HeliXonProtein/OmegaFold,OmegaFold,https://github.com/HeliXonProtein,HeliXonProtein,0
+https://github.com/HeliXonProtein/OmegaFold,OmegaFold,https://ror.org/04h9pn542,Seoul National University,1
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/google-deepmind,google-deepmind,0
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://ror.org/00971b260,Google DeepMind (United Kingdom),0
+https://github.com/chaidiscovery/chai-lab,Chai-2,https://github.com/chaidiscovery,Chai Discovery,0
+https://github.com/chaidiscovery/chai-lab,Chai-2,https://ror.org/014eqcp15,Cyrus Biotechnology,1
+https://github.com/chaidiscovery/chai-lab,Chai-2,https://ror.org/04vkhtf23,Johnson & Johnson (Netherlands),1
+https://github.com/chaidiscovery/chai-lab,Chai-2,https://ror.org/036jqmy94,University of Iowa,1
+https://github.com/chaidiscovery/chai-lab,Chai-2,https://ror.org/00cvxb145,University of Washington,1
+https://github.com/jwohlwend/boltz,Boltz,https://github.com/jwohlwend,Jeremy Wohlwend,0
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/04mnaqe33,Arquimea (Spain),1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/011bzep68,Catticus Corporation,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/04fqqys39,Computational Intelligence and Information Systems Lab,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/03cqe8w59,Consejo Nacional de Investigaciones Científicas y Técnicas,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/01nz9qm02,Genesis Foundation,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/03vek6s52,Harvard University,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/02s4ke886,HemoShear (United States),1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/03t8mqd25,Institute of Molecular Biology,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/00za53h95,Johns Hopkins University,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/05591te55,Ludwig-Maximilians-Universität München,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/012a77v79,Lund University,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/042nb2s44,Massachusetts Institute of Technology,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/00rbjv475,Netherlands eScience Center,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/02c5jsm26,Research Institute of Molecular Pathology,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/03v5jj203,Stazione Zoologica Anton Dohrn,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/02ahky613,Universidad del Noreste,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/01wgfva68,Universidad Nacional de Entre Ríos,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/00pt8r998,Universidad Nacional del Litoral,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/05m7pjf47,University College Dublin,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/03s65by71,"University of California, Santa Cruz",1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/035b05819,University of Copenhagen,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/052gg0110,University of Oxford,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/03a1kwz48,University of Tübingen,1
+https://github.com/jwohlwend/boltz,Boltz,https://ror.org/03prydq77,University of Vienna,1
+https://github.com/Biohub/esm,ESM,https://github.com/Biohub,Biohub,0
+https://github.com/Biohub/esm,ESM,https://ror.org/014nxkk19,Chan Zuckerberg Biohub Chicago,0
+https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/facebookresearch,facebookresearch,0
+https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://ror.org/027ng0s03,META Group,0
+https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://ror.org/04n8fbz89,AstraZeneca (Canada),1
+https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://ror.org/04vyg0r47,Criteo (France),1
+https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://ror.org/01v29qb04,Durham University,1
+https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://ror.org/023b72294,Huazhong Agricultural University,1
+https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://ror.org/02jbv0t02,Lawrence Berkeley National Laboratory,1
+https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://ror.org/03vn2ff22,Missouri Western State University,1
+https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://ror.org/05t1h8f27,University of Huddersfield,1
+https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://ror.org/02ymw8z06,University of Missouri,1
+https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://ror.org/00eae9z71,University of Newcastle Australia,1
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/RosettaCommons,RosettaCommons,0
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://ror.org/02ed4cj64,Creative Commons,1
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://ror.org/00971b260,Google DeepMind (United Kingdom),1
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://ror.org/00za53h95,Johns Hopkins University,1
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://ror.org/042nb2s44,Massachusetts Institute of Technology,1
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://ror.org/01pxwe438,McGill University,1
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://ror.org/02en65a92,Open Molecular Software Foundation,1
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://ror.org/02y72wh86,Queen's University,1
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://ror.org/05vt9qd57,"Rutgers, The State University of New Jersey",1
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://ror.org/01ph20k51,Visterra (United States),1
+https://github.com/baker-laboratory/rf_diffusion_all_atom,RFdiffusion All-Atom,https://github.com/baker-laboratory,baker-laboratory,0
+https://github.com/baker-laboratory/rf_diffusion_all_atom,RFdiffusion All-Atom,https://ror.org/04r0kzx48,Baker University,0
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://github.com/dauparas,Justas Dauparas,0
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://ror.org/03vek6s52,Harvard University,1
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://ror.org/03r5zec51,HES-SO Valais-Wallis,1
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://ror.org/00za53h95,Johns Hopkins University,1
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://ror.org/02s376052,École Polytechnique Fédérale de Lausanne,1
+https://github.com/generatebio/chroma,Chroma,https://github.com/generatebio,Generate:Biomedicines,0
+https://github.com/ProteinDesignLab/protpardelle,Protpardelle,https://github.com/ProteinDesignLab,ProteinDesignLab,0
+https://github.com/ProteinDesignLab/protpardelle,Protpardelle,https://ror.org/03ya6pd97,PDL BioPharma (United States),0
+https://github.com/ProteinDesignLab/protpardelle,Protpardelle,https://ror.org/03r5zec51,HES-SO Valais-Wallis,1
+https://github.com/ProteinDesignLab/protpardelle,Protpardelle,https://ror.org/00za53h95,Johns Hopkins University,1
+https://github.com/ProteinDesignLab/protpardelle,Protpardelle,https://ror.org/00f54p054,Stanford University,1
+https://github.com/ProteinDesignLab/protpardelle,Protpardelle,https://ror.org/02s376052,École Polytechnique Fédérale de Lausanne,1
+https://github.com/jasonkyuyim/se3_diffusion,FrameDiff,https://ror.org/00971b260,Google DeepMind (United Kingdom),1
+https://github.com/jasonkyuyim/se3_diffusion,FrameDiff,https://ror.org/00za53h95,Johns Hopkins University,1
+https://github.com/jasonkyuyim/se3_diffusion,FrameDiff,https://ror.org/02jbv0t02,Lawrence Berkeley National Laboratory,1
+https://github.com/jasonkyuyim/se3_diffusion,FrameDiff,https://ror.org/042nb2s44,Massachusetts Institute of Technology,1
+https://github.com/jasonkyuyim/se3_diffusion,FrameDiff,https://ror.org/03vn2ff22,Missouri Western State University,1
+https://github.com/jasonkyuyim/se3_diffusion,FrameDiff,https://ror.org/02ymw8z06,University of Missouri,1
+https://github.com/martinpacesa/BindCraft,BindCraft,https://ror.org/02j46qs45,Masaryk University,1
+https://github.com/martinpacesa/BindCraft,BindCraft,https://ror.org/02crff812,University of Zurich,1
+https://github.com/martinpacesa/BindCraft,BindCraft,https://ror.org/02s376052,École Polytechnique Fédérale de Lausanne,1
+https://github.com/sokrypton/ColabDesign,ColabDesign,https://github.com/sokrypton,sokrypton,0
+https://github.com/NatLabRockies/EvoProtGrad,EvoProtGrad,https://github.com/NatLabRockies,NatLabRockies,0
+https://github.com/NatLabRockies/EvoProtGrad,EvoProtGrad,https://ror.org/036266993,National Laboratory of the Rockies,0
+https://github.com/RosettaCommons/protein_generator,ProteinGenerator,https://github.com/RosettaCommons,RosettaCommons,0
+https://github.com/RosettaCommons/protein_generator,ProteinGenerator,https://ror.org/010pmpe69,Lomonosov Moscow State University,1
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/RosettaCommons,RosettaCommons,0
+https://github.com/RosettaCommons/rosetta,Rosetta,https://ror.org/03ya6pd97,PDL BioPharma (United States),1
+https://github.com/RosettaCommons/rosetta,Rosetta,https://ror.org/043mz5j54,"University of California, San Francisco",1
+https://github.com/RosettaCommons/rosetta,Rosetta,https://ror.org/024mw5h28,University of Chicago,1
+https://github.com/RosettaCommons/rosetta,Rosetta,https://ror.org/00jmfr291,University of Michigan,1
+https://github.com/RosettaCommons/rosetta,Rosetta,https://ror.org/0130frc33,University of North Carolina at Chapel Hill,1
+https://github.com/RosettaCommons/rosetta,Rosetta,https://ror.org/03dbr7087,University of Toronto,1
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/RosettaCommons,RosettaCommons,0
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://ror.org/02ed4cj64,Creative Commons,1
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://ror.org/050mac570,National Institute of Chemistry,1
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://ror.org/02en65a92,Open Molecular Software Foundation,1
+https://github.com/biopython/biopython,Biopython,https://github.com/biopython,biopython,0
+https://github.com/biopython/biopython,Biopython,https://ror.org/02ved8513,Project HOPE,0
+https://github.com/biopython/biopython,Biopython,https://ror.org/04qtj9h94,Technical University of Denmark,2
+https://github.com/biopython/biopython,Biopython,https://ror.org/013meh722,University of Cambridge,2
+https://github.com/biopython/biopython,Biopython,https://ror.org/04pp8hn57,Utrecht University,2
+https://github.com/biopython/biopython,Biopython,https://ror.org/03tzb2h73,Ajou University,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/02hd2zk59,Atma Jaya Catholic University of Indonesia,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/05gcat543,Barco (Belgium),1
+https://github.com/biopython/biopython,Biopython,https://ror.org/0266wrt04,Barts Cancer Institute,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/03g6j6055,BASF (Switzerland),1
+https://github.com/biopython/biopython,Biopython,https://ror.org/00hj8s172,Columbia University,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/01e6qks80,Dalhousie University,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/02e2c7k09,Delft University of Technology,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/03wcc3744,Forest Research,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/05tpnw772,German BioImaging – Gesellschaft für Mikroskopie und Bildanalyse,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/048xwe611,Institut de Biochimie et Génétique Cellulaires,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/05kwbf598,Institut pour l'avancée des biosciences,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/03rzp5127,James Hutton Institute,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/02jbv0t02,Lawrence Berkeley National Laboratory,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/05xvt9f17,Leiden University Medical Center,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/03svjbs84,Liverpool School of Tropical Medicine,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/012a77v79,Lund University,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/0138q7t80,Malaysia Genome Institute,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/04xx1tc24,Max Planck Institute for Biology of Ageing,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/05a3z6914,Schrodinger (United States),1
+https://github.com/biopython/biopython,Biopython,https://ror.org/03mtd9a03,Stanford Medicine,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/00f54p054,Stanford University,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/05byvp690,The University of Texas Southwestern Medical Center,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/057zh3y96,The University of Tokyo,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/04wn09761,Universidade Federal do Rio Grande do Norte,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/008x57b05,University of Antwerp,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/01an7q238,"University of California, Berkeley",1
+https://github.com/biopython/biopython,Biopython,https://ror.org/04z8k9a98,University of Coimbra,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/02y3ad647,University of Florida,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/02bjhwk41,University of Georgia,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/04xs57h96,University of Liverpool,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/0078xmk34,University of Montana,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/052gg0110,University of Oxford,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/05m5j6s60,University of Saint Joseph,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/00n3w3b69,University of Strathclyde,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/03a1kwz48,University of Tübingen,1
+https://github.com/biopython/biopython,Biopython,https://ror.org/02rx3b187,Université Grenoble Alpes,1

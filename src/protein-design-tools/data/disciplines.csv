@@ -1,0 +1,47 @@
+seed_url,display_name,wikidata_uri
+https://github.com/google-deepmind/alphafold,AlphaFold 2,http://www.wikidata.org/entity/Q420
+https://github.com/google-deepmind/alphafold,AlphaFold 2,http://www.wikidata.org/entity/Q428691
+https://github.com/google-deepmind/alphafold,AlphaFold 2,http://www.wikidata.org/entity/Q580689
+https://github.com/RosettaCommons/RoseTTAFold,RoseTTAFold,http://www.wikidata.org/entity/Q428691
+https://github.com/RosettaCommons/RoseTTAFold,RoseTTAFold,http://www.wikidata.org/entity/Q580689
+https://github.com/aqlaboratory/openfold,OpenFold,http://www.wikidata.org/entity/Q428691
+https://github.com/aqlaboratory/openfold,OpenFold,http://www.wikidata.org/entity/Q580689
+https://github.com/HeliXonProtein/OmegaFold,OmegaFold,http://www.wikidata.org/entity/Q428691
+https://github.com/HeliXonProtein/OmegaFold,OmegaFold,http://www.wikidata.org/entity/Q580689
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,http://www.wikidata.org/entity/Q428691
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,http://www.wikidata.org/entity/Q580689
+https://github.com/chaidiscovery/chai-lab,Chai-2,http://www.wikidata.org/entity/Q428691
+https://github.com/chaidiscovery/chai-lab,Chai-2,http://www.wikidata.org/entity/Q580689
+https://github.com/jwohlwend/boltz,Boltz,http://www.wikidata.org/entity/Q420
+https://github.com/jwohlwend/boltz,Boltz,http://www.wikidata.org/entity/Q428691
+https://github.com/jwohlwend/boltz,Boltz,http://www.wikidata.org/entity/Q580689
+https://github.com/Biohub/esm,ESM,http://www.wikidata.org/entity/Q428691
+https://github.com/Biohub/esm,ESM,http://www.wikidata.org/entity/Q580689
+https://github.com/facebookresearch/esm,ESM (original) / ESMFold,http://www.wikidata.org/entity/Q428691
+https://github.com/facebookresearch/esm,ESM (original) / ESMFold,http://www.wikidata.org/entity/Q580689
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,http://www.wikidata.org/entity/Q428691
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,http://www.wikidata.org/entity/Q580689
+https://github.com/baker-laboratory/rf_diffusion_all_atom,RFdiffusion All-Atom,http://www.wikidata.org/entity/Q428691
+https://github.com/baker-laboratory/rf_diffusion_all_atom,RFdiffusion All-Atom,http://www.wikidata.org/entity/Q580689
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,http://www.wikidata.org/entity/Q428691
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,http://www.wikidata.org/entity/Q580689
+https://github.com/generatebio/chroma,Chroma,http://www.wikidata.org/entity/Q428691
+https://github.com/generatebio/chroma,Chroma,http://www.wikidata.org/entity/Q580689
+https://github.com/ProteinDesignLab/protpardelle,Protpardelle,http://www.wikidata.org/entity/Q428691
+https://github.com/ProteinDesignLab/protpardelle,Protpardelle,http://www.wikidata.org/entity/Q580689
+https://github.com/jasonkyuyim/se3_diffusion,FrameDiff,http://www.wikidata.org/entity/Q428691
+https://github.com/jasonkyuyim/se3_diffusion,FrameDiff,http://www.wikidata.org/entity/Q580689
+https://github.com/martinpacesa/BindCraft,BindCraft,http://www.wikidata.org/entity/Q428691
+https://github.com/martinpacesa/BindCraft,BindCraft,http://www.wikidata.org/entity/Q580689
+https://github.com/sokrypton/ColabDesign,ColabDesign,http://www.wikidata.org/entity/Q428691
+https://github.com/sokrypton/ColabDesign,ColabDesign,http://www.wikidata.org/entity/Q580689
+https://github.com/NatLabRockies/EvoProtGrad,EvoProtGrad,http://www.wikidata.org/entity/Q428691
+https://github.com/NatLabRockies/EvoProtGrad,EvoProtGrad,http://www.wikidata.org/entity/Q580689
+https://github.com/RosettaCommons/protein_generator,ProteinGenerator,http://www.wikidata.org/entity/Q428691
+https://github.com/RosettaCommons/protein_generator,ProteinGenerator,http://www.wikidata.org/entity/Q580689
+https://github.com/RosettaCommons/rosetta,Rosetta,http://www.wikidata.org/entity/Q428691
+https://github.com/RosettaCommons/rosetta,Rosetta,http://www.wikidata.org/entity/Q580689
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),http://www.wikidata.org/entity/Q428691
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),http://www.wikidata.org/entity/Q580689
+https://github.com/biopython/biopython,Biopython,http://www.wikidata.org/entity/Q428691
+https://github.com/biopython/biopython,Biopython,http://www.wikidata.org/entity/Q580689
