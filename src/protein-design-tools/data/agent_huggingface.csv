@@ -1,0 +1,22 @@
+seed_url,display_name,hf_url,kind,label,provenance,verified
+https://github.com/aqlaboratory/openfold,OpenFold,https://huggingface.co/nz/OpenFold,model,nz/OpenFold (community),ai-agent (managed by caviri),NO
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://huggingface.co/OpenFold/OpenFold3,model,OpenFold/OpenFold3 (open AF3 reproduction),ai-agent (managed by caviri),NO
+https://github.com/chaidiscovery/chai-lab,Chai-1,https://huggingface.co/chaidiscovery/chai-1,model,chaidiscovery/chai-1,ai-agent (managed by caviri),NO
+https://github.com/jwohlwend/boltz,Boltz-2,https://huggingface.co/boltz-community/boltz-1,model,boltz-community/boltz-1,ai-agent (managed by caviri),NO
+https://github.com/jwohlwend/boltz,Boltz-2,https://huggingface.co/spaces/simonduerr/boltz-1,space,simonduerr/boltz-1,ai-agent (managed by caviri),NO
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://huggingface.co/facebook/esm2_t33_650M_UR50D,model,facebook/esm2_t33_650M_UR50D,ai-agent (managed by caviri),NO
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://huggingface.co/facebook/esmfold_v1,model,facebook/esmfold_v1 (ESMFold),ai-agent (managed by caviri),NO
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://huggingface.co/spaces/hugging-science/ESM2,space,hugging-science/ESM2,ai-agent (managed by caviri),NO
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://huggingface.co/GlandVergil/RFdiffusion,model,GlandVergil/RFdiffusion (community),ai-agent (managed by caviri),NO
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://huggingface.co/spaces/hugging-science/RFdiffusion3,space,hugging-science/RFdiffusion3,ai-agent (managed by caviri),NO
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://huggingface.co/spaces/simonduerr/ProteinMPNN,space,simonduerr/ProteinMPNN,ai-agent (managed by caviri),NO
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://huggingface.co/spaces/simonduerr/ProteinMPNNESM,space,simonduerr/ProteinMPNNESM,ai-agent (managed by caviri),NO
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://huggingface.co/spaces/hugging-science/LigandMPNN,space,hugging-science/LigandMPNN (related),ai-agent (managed by caviri),NO
+https://github.com/ProteinDesignLab/protpardelle,Protpardelle,https://huggingface.co/spaces/ProteinDesignLab/protpardelle,space,ProteinDesignLab/protpardelle,ai-agent (managed by caviri),NO
+https://github.com/RosettaCommons/protein_generator,ProteinGenerator,https://huggingface.co/spaces/merle/PROTEIN_GENERATOR,space,merle/PROTEIN_GENERATOR,ai-agent (managed by caviri),NO
+(field-wide),,https://huggingface.co/datasets/OATML-Markslab/ProteinGym_v1,dataset,ProteinGym v1,ai-agent (managed by caviri),NO
+(field-wide),,https://huggingface.co/datasets/Synthyra/PINDER,dataset,PINDER,ai-agent (managed by caviri),NO
+(field-wide),,https://huggingface.co/papers/2308.05326,dataset,OpenProteinSet,ai-agent (managed by caviri),NO
+(field-wide),,https://huggingface.co/nferruz/ProtGPT2,model,ProtGPT2,ai-agent (managed by caviri),NO
+(field-wide),,https://huggingface.co/Rostlab/prot_bert,model,ProtBERT,ai-agent (managed by caviri),NO
+(field-wide),,https://huggingface.co/Rostlab/prot_t5_xl_half_uniref50-enc,model,ProtT5-XL,ai-agent (managed by caviri),NO

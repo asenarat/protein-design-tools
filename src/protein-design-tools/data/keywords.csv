@@ -2,9 +2,25 @@ seed_url,display_name,keyword
 https://github.com/aqlaboratory/openfold,OpenFold,alphafold2
 https://github.com/aqlaboratory/openfold,OpenFold,protein-structure
 https://github.com/aqlaboratory/openfold,OpenFold,pytorch
-https://github.com/jwohlwend/boltz,Boltz,binding-prediction
-https://github.com/jwohlwend/boltz,Boltz,drug-discovery
-https://github.com/jwohlwend/boltz,Boltz,protein-structure
+https://github.com/sokrypton/ColabFold,ColabFold,bioinformatics
+https://github.com/sokrypton/ColabFold,ColabFold,multiple-sequence-alignment
+https://github.com/sokrypton/ColabFold,ColabFold,protein-structure
+https://github.com/sokrypton/ColabFold,ColabFold,structure-prediction
+https://github.com/jwohlwend/boltz,Boltz-2,binding-prediction
+https://github.com/jwohlwend/boltz,Boltz-2,drug-discovery
+https://github.com/jwohlwend/boltz,Boltz-2,protein-structure
+https://github.com/westlake-repl/SaProt,SAProt,alphafold2
+https://github.com/westlake-repl/SaProt,SAProt,foldseek
+https://github.com/westlake-repl/SaProt,SAProt,predicted-structures
+https://github.com/westlake-repl/SaProt,SAProt,pretraining
+https://github.com/westlake-repl/SaProt,SAProt,protein
+https://github.com/westlake-repl/SaProt,SAProt,protein-language-model
+https://github.com/westlake-repl/SaProt,SAProt,protein-llm
+https://github.com/westlake-repl/SaProt,SAProt,protein-sequence
+https://github.com/westlake-repl/SaProt,SAProt,protein-structure
+https://github.com/westlake-repl/SaProt,SAProt,representation-learning
+https://github.com/westlake-repl/SaProt,SAProt,structural-alphbet
+https://github.com/westlake-repl/SaProt,SAProt,structure-aware
 https://github.com/martinpacesa/BindCraft,BindCraft,alphafold2
 https://github.com/martinpacesa/BindCraft,BindCraft,binder
 https://github.com/martinpacesa/BindCraft,BindCraft,design
@@ -20,16 +36,16 @@ https://github.com/RosettaCommons/rosetta,Rosetta,enzyme-design
 https://github.com/RosettaCommons/rosetta,Rosetta,macromolecular-modeling
 https://github.com/RosettaCommons/rosetta,Rosetta,protein-design
 https://github.com/RosettaCommons/rosetta,Rosetta,protein-structure
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),dna
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),google-colab
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),jupyter-notebook
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),protein-design
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),protein-docking
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),protein-folding
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),protein-structure-prediction
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),pyrosetta
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),rna-structure-prediction
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),rosetta
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,dna
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,google-colab
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,jupyter-notebook
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,protein-design
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,protein-docking
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,protein-folding
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,protein-structure-prediction
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,pyrosetta
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,rna-structure-prediction
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,rosetta
 https://github.com/biopython/biopython,Biopython,bioinformatics
 https://github.com/biopython/biopython,Biopython,biopython
 https://github.com/biopython/biopython,Biopython,dna

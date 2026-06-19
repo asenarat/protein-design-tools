@@ -1,0 +1,22 @@
+seed_url,display_name,lab,institution,key_people,provenance,verified
+https://github.com/google-deepmind/alphafold,AlphaFold 2,Google DeepMind,"London, UK",John Jumper; Demis Hassabis,ai-agent (managed by caviri),NO
+https://github.com/RosettaCommons/RoseTTAFold,RoseTTAFold,Baker Lab,"Institute for Protein Design, University of Washington",Minkyung Baek; David Baker,ai-agent (managed by caviri),NO
+https://github.com/aqlaboratory/openfold,OpenFold,AlQuraishi Lab / OpenFold Consortium,Columbia University (Open Molecular Software Foundation),Gustaf Ahdritz; Mohammed AlQuraishi,ai-agent (managed by caviri),NO
+https://github.com/HeliXonProtein/OmegaFold,OmegaFold,HeliXon (with MIT CSAIL),HeliXon,Ruidong Wu; Jian Peng,ai-agent (managed by caviri),NO
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,Google DeepMind / Isomorphic Labs,"London, UK",Josh Abramson; John Jumper,ai-agent (managed by caviri),NO
+https://github.com/chaidiscovery/chai-lab,Chai-1,Chai Discovery,"San Francisco, USA",Chai Discovery Team; Joshua Meier,ai-agent (managed by caviri),NO
+https://github.com/jwohlwend/boltz,Boltz-2,Jaakkola & Barzilay Labs,MIT CSAIL,Jeremy Wohlwend; Gabriele Corso,ai-agent (managed by caviri),NO
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,Meta AI (FAIR),Meta,Zeming Lin; Alexander Rives,ai-agent (managed by caviri),NO
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,Baker Lab,"Institute for Protein Design, University of Washington",Joseph Watson; David Baker,ai-agent (managed by caviri),NO
+https://github.com/baker-laboratory/rf_diffusion_all_atom,RFdiffusion All-Atom,Baker Lab,"Institute for Protein Design, University of Washington",Rohith Krishna; David Baker,ai-agent (managed by caviri),NO
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,Baker Lab,"Institute for Protein Design, University of Washington",Justas Dauparas; David Baker,ai-agent (managed by caviri),NO
+https://github.com/generatebio/chroma,Chroma,Generate Biomedicines,"Somerville, MA, USA",John Ingraham,ai-agent (managed by caviri),NO
+https://github.com/ProteinDesignLab/protpardelle,Protpardelle,Po-Ssu Huang Lab,Stanford University,Alexander Chu; Po-Ssu Huang,ai-agent (managed by caviri),NO
+https://github.com/jasonkyuyim/se3_diffusion,FrameDiff,Jaakkola Lab,MIT CSAIL,Jason Yim; Tommi Jaakkola,ai-agent (managed by caviri),NO
+https://github.com/martinpacesa/BindCraft,BindCraft,Correia Lab,EPFL,Martin Pacesa; Bruno Correia,ai-agent (managed by caviri),NO
+https://github.com/sokrypton/ColabDesign,ColabDesign,Ovchinnikov Lab,MIT (formerly Harvard),Sergey Ovchinnikov,ai-agent (managed by caviri),NO
+https://github.com/NatLabRockies/EvoProtGrad,EvoProtGrad,Computational Science Center,National Renewable Energy Laboratory (NREL),Patrick Emami,ai-agent (managed by caviri),NO
+https://github.com/RosettaCommons/protein_generator,ProteinGenerator,Baker Lab,"Institute for Protein Design, University of Washington",Sidney Lisanza; David Baker,ai-agent (managed by caviri),NO
+https://github.com/RosettaCommons/rosetta,Rosetta,RosettaCommons,Multi-institution consortium (60+ labs),Andrew Leaver-Fay; Brian Kuhlman,ai-agent (managed by caviri),NO
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,RosettaCommons (PyRosetta) / Gray Lab,Johns Hopkins University,Sergey Lyskov; Jeffrey Gray,ai-agent (managed by caviri),NO
+https://github.com/biopython/biopython,Biopython,Biopython project,Open Bioinformatics Foundation,Peter Cock,ai-agent (managed by caviri),NO

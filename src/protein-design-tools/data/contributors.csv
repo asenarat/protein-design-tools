@@ -1,280 +1,292 @@
 seed_url,display_name,contributor_id,kind,contributor_gh_url,contributor_orcid,contributor_handle,contributor_name,first_contribution,last_contribution
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/Augustin-Zidek,github,https://github.com/Augustin-Zidek,,Augustin-Zidek,Augustin Žídek,2021-07-15T17:44:37Z,2026-04-14T08:35:37Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/saran-t,github,https://github.com/saran-t,,saran-t,Saran Tunyasuvunakool,2021-07-22T14:16:43Z,2021-07-22T14:16:43Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/tomwardio,github,https://github.com/tomwardio,,tomwardio,Tom Ward,2021-07-27T09:24:29Z,2022-06-14T11:11:28Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/mfigurnov,github,https://github.com/mfigurnov,,mfigurnov,Michael Figurnov,2021-08-31T11:24:38Z,2022-02-16T18:02:48Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/andycowie,github,https://github.com/andycowie,,andycowie,andycowie,2021-11-04T15:21:49Z,2022-12-15T16:43:59Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/rich12321,github,https://github.com/rich12321,,rich12321,rich12321,2021-11-05T09:36:42Z,2022-03-07T14:59:58Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/tfgg,github,https://github.com/tfgg,,tfgg,Tim Green,2022-01-19T21:39:18Z,2022-01-19T21:39:18Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/tomhennigan,github,https://github.com/tomhennigan,,tomhennigan,Tom Hennigan,2022-02-14T07:43:43Z,2022-02-14T07:43:43Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/sbodenstein,github,https://github.com/sbodenstein,,sbodenstein,Sebastian Bodenstein,2022-03-02T17:20:16Z,2022-03-08T13:43:22Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/rchen152,github,https://github.com/rchen152,,rchen152,Rebecca Chen,2022-03-21T10:33:46Z,2022-03-21T10:33:46Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/Htomlinson14,github,https://github.com/Htomlinson14,,Htomlinson14,Hamish Tomlinson,2022-08-31T15:39:33Z,2024-04-15T18:08:04Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/hawkinsp,github,https://github.com/hawkinsp,,hawkinsp,Peter Hawkins,2022-10-13T09:58:27Z,2024-07-25T11:17:05Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/joshabramson,github,https://github.com/joshabramson,,joshabramson,Josh Abramson,2022-12-21T12:03:26Z,2026-03-12T16:35:35Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/alexanderimanicowenrivers,github,https://github.com/alexanderimanicowenrivers,https://orcid.org/0000-0002-2669-9513,alexanderimanicowenrivers,alexanderimanicowenrivers,2022-12-21T17:15:20Z,2023-01-10T23:09:17Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/dlasecki,github,https://github.com/dlasecki,,dlasecki,Dariusz Lasecki,2023-06-16T14:35:46Z,2025-01-29T14:32:24Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/Jane333,github,https://github.com/Jane333,,Jane333,Jana Cavojska,2023-07-19T09:55:00Z,2023-07-20T17:30:20Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/mattjj,github,https://github.com/mattjj,,mattjj,Matthew Johnson,2023-12-15T15:13:05Z,2023-12-15T15:13:05Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/h-joo,github,https://github.com/h-joo,,h-joo,Hana Joo,2025-04-29T16:32:35Z,2025-04-29T16:32:35Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/rpachauri,github,https://github.com/rpachauri,,rpachauri,rpachauri,2025-08-20T01:38:06Z,2025-10-16T18:39:48Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/harshtikuu,github,https://github.com/harshtikuu,,harshtikuu,Harsh Tiku,2025-09-24T14:20:51Z,2025-10-31T09:45:18Z
-https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/akviz,github,https://github.com/akviz,,akviz,akviz,2025-09-29T15:36:57Z,2025-09-29T15:36:57Z
-https://github.com/RosettaCommons/RoseTTAFold,RoseTTAFold,https://github.com/huhlim,github,https://github.com/huhlim,,huhlim,Lim Heo,2021-07-06T19:04:19Z,2021-07-06T19:10:18Z
-https://github.com/RosettaCommons/RoseTTAFold,RoseTTAFold,https://github.com/runitralph,github,https://github.com/runitralph,,runitralph,Raphael Ndem,2021-07-15T23:41:42Z,2021-07-15T23:41:42Z
-https://github.com/RosettaCommons/RoseTTAFold,RoseTTAFold,https://github.com/neilfleckSCRI,github,https://github.com/neilfleckSCRI,,neilfleckSCRI,neilfleckSCRI,2021-08-03T23:21:39Z,2021-08-03T23:21:39Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/alquraishi,github,https://github.com/alquraishi,,alquraishi,Mohammed AlQuraishi,2021-09-14T23:59:03Z,2021-09-20T13:28:44Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/gahdritz,github,https://github.com/gahdritz,,gahdritz,Gustaf Ahdritz,2021-09-17T22:34:59Z,2023-10-20T19:56:10Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/sachinkadyan7,github,https://github.com/sachinkadyan7,,sachinkadyan7,Sachin Kadyan,2021-10-08T08:28:34Z,2024-05-09T10:18:42Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/marta-sd,github,https://github.com/marta-sd,,marta-sd,Marta Stepniewska-Dziubinska,2021-10-29T07:28:42Z,2021-11-04T07:38:33Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/cclauss,github,https://github.com/cclauss,,cclauss,Christian Clauss,2021-11-15T10:13:21Z,2021-11-15T20:50:25Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/yuzhiguo07,github,https://github.com/yuzhiguo07,,yuzhiguo07,yuzhiguo07,2021-11-29T21:11:41Z,2021-11-29T21:11:41Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/lhatsk,github,https://github.com/lhatsk,,lhatsk,lhatsk,2022-01-20T10:48:20Z,2022-01-20T10:48:20Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/lilleswing,github,https://github.com/lilleswing,https://orcid.org/0000-0003-2361-3267,lilleswing,lilleswing,2022-01-20T15:50:59Z,2022-01-20T15:57:37Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/decarboxy,github,https://github.com/decarboxy,,decarboxy,Sam DeLuca,2022-02-01T17:21:33Z,2022-12-13T19:46:07Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/brianloyal,github,https://github.com/brianloyal,,brianloyal,Brian Loyal,2022-06-23T13:41:06Z,2022-08-12T16:33:23Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/sdvillal,github,https://github.com/sdvillal,,sdvillal,Santi Villalba,2022-07-16T07:31:29Z,2022-07-16T17:18:58Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/josemduarte,github,https://github.com/josemduarte,,josemduarte,Jose Manuel Duarte,2022-07-18T18:18:48Z,2023-03-07T00:41:14Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/nikita-smetanin,github,https://github.com/nikita-smetanin,,nikita-smetanin,Nikita Smetanin,2022-07-28T20:02:31Z,2022-08-22T19:38:39Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/bozhang-hpc,github,https://github.com/bozhang-hpc,,bozhang-hpc,Bo Zhang,2022-07-29T23:05:07Z,2022-08-02T17:54:35Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/NZ99,github,https://github.com/NZ99,,NZ99,Niccolò Zanichelli,2022-07-31T09:34:25Z,2022-08-31T14:28:01Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/timodonnell,github,https://github.com/timodonnell,https://orcid.org/0000-0002-9949-069X,timodonnell,timodonnell,2022-08-11T21:02:31Z,2022-08-29T21:01:56Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/mhrmsn,github,https://github.com/mhrmsn,,mhrmsn,Marko Hermsen,2022-09-21T18:33:45Z,2022-09-21T18:33:45Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/jonathanking,github,https://github.com/jonathanking,,jonathanking,Jonathan King,2022-10-08T20:48:35Z,2023-03-14T20:09:22Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/christinaflo,github,https://github.com/christinaflo,,christinaflo,Christina Floristean,2023-02-17T05:59:28Z,2024-05-09T10:18:42Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/awaelchli,github,https://github.com/awaelchli,,awaelchli,Adrian Wälchli,2023-02-26T12:21:01Z,2023-02-26T12:49:54Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/vaclavhanzl,github,https://github.com/vaclavhanzl,,vaclavhanzl,Vaclav Hanzl,2023-03-05T16:23:45Z,2024-10-22T17:23:05Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/dingquanyu,github,https://github.com/dingquanyu,,dingquanyu,Dingquan Yu,2023-06-17T13:34:29Z,2024-05-13T05:13:00Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/jnwei,github,https://github.com/jnwei,https://orcid.org/0000-0003-3567-9511,jnwei,jnwei,2023-09-18T21:57:27Z,2025-12-16T09:41:53Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/ljarosch,github,https://github.com/ljarosch,,ljarosch,ljarosch,2023-10-06T22:14:02Z,2024-11-14T17:36:56Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/mattwthompson,github,https://github.com/mattwthompson,,mattwthompson,Matt Thompson,2023-10-23T20:37:36Z,2023-10-23T21:13:16Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/controny,github,https://github.com/controny,,controny,Gengcong Yang,2024-02-06T03:30:10Z,2024-02-06T08:48:27Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/rostro36,github,https://github.com/rostro36,,rostro36,Jannik Gut,2024-02-20T08:57:12Z,2024-07-18T01:17:55Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/etowahadams,github,https://github.com/etowahadams,,etowahadams,etowahadams,2024-11-13T16:40:23Z,2025-02-23T23:52:59Z
-https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/borisfom,github,https://github.com/borisfom,,borisfom,Boris Fomitchev,2025-09-07T23:20:31Z,2025-12-16T08:54:57Z
-https://github.com/HeliXonProtein/OmegaFold,OmegaFold,https://github.com/mooninrain,github,https://github.com/mooninrain,,mooninrain,Ruidong Wu,2022-07-25T16:21:39Z,2022-08-13T16:41:13Z
-https://github.com/HeliXonProtein/OmegaFold,OmegaFold,https://github.com/xiwen1995,github,https://github.com/xiwen1995,,xiwen1995,xiwen1995,2022-08-06T07:46:01Z,2022-08-13T11:17:16Z
-https://github.com/HeliXonProtein/OmegaFold,OmegaFold,https://github.com/Zuofan-Wu,github,https://github.com/Zuofan-Wu,,Zuofan-Wu,Zuofan Wu,2022-08-06T11:36:44Z,2022-08-06T11:36:44Z
-https://github.com/HeliXonProtein/OmegaFold,OmegaFold,https://github.com/hazemessamm,github,https://github.com/hazemessamm,,hazemessamm,Hazem Essam,2022-08-23T13:26:17Z,2022-08-23T13:26:17Z
-https://github.com/HeliXonProtein/OmegaFold,OmegaFold,https://github.com/jnooree,github,https://github.com/jnooree,https://orcid.org/0000-0002-4596-1257,jnooree,jnooree,2022-09-13T04:04:30Z,2022-09-13T04:04:30Z
-https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/Augustin-Zidek,github,https://github.com/Augustin-Zidek,,Augustin-Zidek,Augustin Žídek,2024-11-11T10:42:47Z,2026-05-22T11:03:36Z
-https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/mlbileschi,github,https://github.com/mlbileschi,,mlbileschi,Maxwell Bileschi,2024-11-12T18:39:19Z,2024-11-12T18:39:19Z
-https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/jacobjinkelly,github,https://github.com/jacobjinkelly,,jacobjinkelly,Jacob Kelly,2024-11-14T15:20:38Z,2024-12-13T06:46:10Z
-https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/jsspencer,github,https://github.com/jsspencer,,jsspencer,James Spencer,2024-12-10T15:44:09Z,2026-02-25T13:01:49Z
-https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/andycowie,github,https://github.com/andycowie,,andycowie,andycowie,2025-01-09T12:59:41Z,2025-01-09T12:59:41Z
-https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/joshabramson,github,https://github.com/joshabramson,,joshabramson,Josh Abramson,2025-02-10T13:52:32Z,2025-12-02T11:31:32Z
-https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/khasanovaa,github,https://github.com/khasanovaa,,khasanovaa,Aliia Khasanova,2025-03-24T10:01:53Z,2025-03-24T10:01:53Z
-https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/vwbaker,github,https://github.com/vwbaker,,vwbaker,Tori Baker,2025-07-31T07:14:38Z,2025-07-31T07:14:38Z
-https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/bchetioui,github,https://github.com/bchetioui,,bchetioui,Benjamin Chetioui,2025-10-21T09:26:33Z,2025-10-21T09:26:33Z
-https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/caporalCoder,github,https://github.com/caporalCoder,,caporalCoder,Foromo Daniel Soromou,2025-11-04T15:56:06Z,2025-11-04T15:56:06Z
-https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/akviz,github,https://github.com/akviz,,akviz,akviz,2025-11-18T09:33:44Z,2026-03-25T19:25:38Z
-https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/rpachauri,github,https://github.com/rpachauri,,rpachauri,rpachauri,2025-11-30T03:03:26Z,2025-11-30T03:03:26Z
-https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/QEDady,github,https://github.com/QEDady,,QEDady,Amer Esmail Elsheikh,2026-04-09T21:48:18Z,2026-04-09T21:48:18Z
-https://github.com/chaidiscovery/chai-lab,Chai-2,https://github.com/arogozhnikov,github,https://github.com/arogozhnikov,,arogozhnikov,Alex Rogozhnikov,2024-09-09T14:35:45Z,2025-12-03T02:14:58Z
-https://github.com/chaidiscovery/chai-lab,Chai-2,https://github.com/jackdent,github,https://github.com/jackdent,,jackdent,Jack Dent,2024-09-09T15:45:17Z,2026-04-11T04:39:28Z
-https://github.com/chaidiscovery/chai-lab,Chai-2,https://github.com/eltociear,github,https://github.com/eltociear,,eltociear,Ikko Eltociear Ashimine,2024-09-09T18:39:50Z,2024-09-09T18:39:50Z
-https://github.com/chaidiscovery/chai-lab,Chai-2,https://github.com/jacquesboitreaud,github,https://github.com/jacquesboitreaud,,jacquesboitreaud,Jacques Boitreaud,2024-09-10T17:45:11Z,2024-09-18T21:44:00Z
-https://github.com/chaidiscovery/chai-lab,Chai-2,https://github.com/wukevin,github,https://github.com/wukevin,,wukevin,Kevin Wu,2024-09-10T23:05:51Z,2026-03-23T21:33:56Z
-https://github.com/chaidiscovery/chai-lab,Chai-2,https://github.com/vreis,github,https://github.com/vreis,,vreis,Vinicius Reis,2024-09-12T16:29:52Z,2024-09-12T16:29:52Z
-https://github.com/chaidiscovery/chai-lab,Chai-2,https://github.com/joshim5,github,https://github.com/joshim5,,joshim5,Joshua Meier,2024-11-20T00:04:39Z,2025-08-18T06:36:40Z
-https://github.com/chaidiscovery/chai-lab,Chai-2,https://github.com/danpf,github,https://github.com/danpf,https://orcid.org/0000-0001-7024-7998,danpf,danpf,2024-12-02T23:08:02Z,2024-12-02T23:08:02Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/jwohlwend,github,https://github.com/jwohlwend,,jwohlwend,Jeremy Wohlwend,2024-11-17T15:14:26Z,2026-05-25T09:59:56Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/omahs,github,https://github.com/omahs,,omahs,omahs,2024-11-19T12:47:50Z,2024-11-19T12:48:21Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/gcorso,github,https://github.com/gcorso,,gcorso,Gabriele Corso,2024-11-20T16:34:54Z,2026-05-25T09:34:28Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/Saro00,github,https://github.com/Saro00,,Saro00,Saro Passaro,2024-11-22T02:25:58Z,2025-06-07T13:01:41Z
-https://github.com/jwohlwend/boltz,Boltz,https://orcid.org/0000-0002-4123-9339,orcid,,https://orcid.org/0000-0002-4123-9339,0000-0002-4123-9339,David Williams,2024-12-02T23:46:25Z,2024-12-03T20:04:45Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/jsilter,github,https://github.com/jsilter,,jsilter,Jacob Silterra,2024-12-03T15:39:41Z,2025-03-04T16:39:53Z
-https://github.com/jwohlwend/boltz,Boltz,https://orcid.org/0000-0003-0981-9605,orcid,,https://orcid.org/0000-0003-0981-9605,0000-0003-0981-9605,Benjamin FRY,2024-12-06T21:52:41Z,2025-06-13T22:51:08Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/lbugnon,github,https://github.com/lbugnon,https://orcid.org/0000-0001-5702-946X,lbugnon,lbugnon,2024-12-26T15:26:49Z,2024-12-30T20:07:30Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/shenoynikhil,github,https://github.com/shenoynikhil,,shenoynikhil,Nikhil Shenoy,2024-12-26T19:01:13Z,2025-08-08T13:44:24Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/latkins,github,https://github.com/latkins,,latkins,Liam Atkinson,2025-01-09T16:10:35Z,2025-02-13T08:25:30Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/phue,github,https://github.com/phue,https://orcid.org/0000-0003-3315-2484,phue,phue,2025-01-23T16:11:44Z,2025-01-30T13:39:25Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/ioannisa92,github,https://github.com/ioannisa92,,ioannisa92,Ioannis Anastopoulos,2025-02-05T21:26:17Z,2025-03-21T23:34:00Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/dsmith111,github,https://github.com/dsmith111,,dsmith111,David Smith,2025-04-04T02:43:48Z,2025-04-04T02:44:13Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/darianyang,github,https://github.com/darianyang,https://orcid.org/0000-0002-8654-3529,darianyang,darianyang,2025-05-02T11:52:12Z,2025-05-08T09:26:30Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/Noahb930,github,https://github.com/Noahb930,,Noahb930,Noah Getz,2025-05-07T00:43:12Z,2025-09-08T15:57:24Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/KeaunAmani,github,https://github.com/KeaunAmani,,KeaunAmani,Keaun Amani,2025-05-14T04:25:44Z,2025-05-14T19:51:27Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/CurtisColwell,github,https://github.com/CurtisColwell,,CurtisColwell,Curtis Colwell,2025-06-11T17:54:34Z,2025-06-11T18:01:13Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/zeevick10,github,https://github.com/zeevick10,,zeevick10,FT,2025-06-15T12:25:34Z,2025-06-15T12:25:57Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/paulpham157,github,https://github.com/paulpham157,,paulpham157,Paul Pham,2025-06-16T12:12:24Z,2025-06-26T13:51:58Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/leopardracer,github,https://github.com/leopardracer,,leopardracer,Ihor,2025-06-17T15:59:07Z,2025-06-17T16:01:55Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/kilavvy,github,https://github.com/kilavvy,,kilavvy,kilavvy,2025-06-21T18:49:17Z,2025-06-21T18:49:58Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/JohnKirwan,github,https://github.com/JohnKirwan,https://orcid.org/0000-0001-5537-3574,JohnKirwan,JohnKirwan,2025-07-04T08:29:57Z,2025-07-04T08:47:50Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/gcroci2,github,https://github.com/gcroci2,https://orcid.org/0000-0002-0823-0121,gcroci2,gcroci2,2025-07-04T17:23:21Z,2025-07-04T19:15:47Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/tobiasploetz,github,https://github.com/tobiasploetz,,tobiasploetz,Tobias Ploetz,2025-07-11T11:45:33Z,2025-07-16T09:56:21Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/glukhove,github,https://github.com/glukhove,,glukhove,Ernest Glukhov,2025-07-11T17:31:07Z,2025-07-11T17:32:34Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/noah-boltz,github,https://github.com/noah-boltz,,noah-boltz,Noah Getz,2025-07-14T19:16:25Z,2025-08-06T21:42:55Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/Jnelen,github,https://github.com/Jnelen,https://orcid.org/0000-0002-9970-4950,Jnelen,Jnelen,2025-07-14T22:32:57Z,2025-07-15T12:52:28Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/JoshuaMeyers,github,https://github.com/JoshuaMeyers,,JoshuaMeyers,Joshua Meyers,2025-07-17T12:20:28Z,2025-08-19T13:51:49Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/tlitfin,github,https://github.com/tlitfin,https://orcid.org/0000-0002-4863-3865,tlitfin,tlitfin,2025-08-24T12:11:55Z,2025-08-24T12:14:22Z
-https://github.com/jwohlwend/boltz,Boltz,https://github.com/jeremyboltz,github,https://github.com/jeremyboltz,,jeremyboltz,jeremyboltz,2025-09-08T15:57:46Z,2025-09-08T15:58:30Z
-https://github.com/Biohub/esm,ESM,https://github.com/ebetica,github,https://github.com/ebetica,https://orcid.org/0000-0002-0883-1373,ebetica,ebetica,2024-06-25T10:38:37Z,2025-09-15T17:06:42Z
-https://github.com/Biohub/esm,ESM,https://github.com/santiag0m,github,https://github.com/santiag0m,,santiag0m,santiag0m,2024-06-25T21:56:06Z,2025-07-01T13:51:02Z
-https://github.com/Biohub/esm,ESM,https://github.com/jordansafer,github,https://github.com/jordansafer,,jordansafer,Jordan Safer,2024-06-27T15:35:12Z,2024-06-27T15:35:12Z
-https://github.com/Biohub/esm,ESM,https://github.com/carolynkim,github,https://github.com/carolynkim,,carolynkim,carolynkim,2024-06-27T23:39:54Z,2024-06-27T23:39:54Z
-https://github.com/Biohub/esm,ESM,https://github.com/scandido,github,https://github.com/scandido,,scandido,Salvatore Candido,2024-07-22T22:57:38Z,2024-08-06T00:26:28Z
-https://github.com/Biohub/esm,ESM,https://github.com/tomsercu,github,https://github.com/tomsercu,,tomsercu,Tom Sercu,2024-07-23T05:24:09Z,2024-12-09T16:17:13Z
-https://github.com/Biohub/esm,ESM,https://github.com/cmishra,github,https://github.com/cmishra,,cmishra,Chetan Mishra,2024-09-25T11:40:48Z,2025-04-04T01:02:33Z
-https://github.com/Biohub/esm,ESM,https://github.com/jmaccarl,github,https://github.com/jmaccarl,,jmaccarl,Jenna MacCarley,2024-10-21T21:00:29Z,2024-10-22T20:00:04Z
-https://github.com/Biohub/esm,ESM,https://github.com/tina-z-jia,github,https://github.com/tina-z-jia,,tina-z-jia,tina-z-jia,2024-12-04T15:56:15Z,2025-01-16T18:34:33Z
-https://github.com/Biohub/esm,ESM,https://github.com/halilakin,github,https://github.com/halilakin,,halilakin,halilakin,2024-12-04T16:57:17Z,2024-12-04T16:57:17Z
-https://github.com/Biohub/esm,ESM,https://github.com/thomas-a-neil,github,https://github.com/thomas-a-neil,,thomas-a-neil,Neil Thomas,2024-12-04T22:51:09Z,2026-01-26T19:44:52Z
-https://github.com/Biohub/esm,ESM,https://github.com/robert-verkuil,github,https://github.com/robert-verkuil,,robert-verkuil,robert-verkuil,2024-12-07T04:58:03Z,2024-12-07T04:58:03Z
-https://github.com/Biohub/esm,ESM,https://github.com/s22chan,github,https://github.com/s22chan,,s22chan,Steve Chan,2025-05-29T18:16:30Z,2025-08-15T20:01:43Z
-https://github.com/Biohub/esm,ESM,https://github.com/imathur1,github,https://github.com/imathur1,,imathur1,Ishaan Mathur,2025-07-11T18:25:59Z,2025-10-30T18:47:40Z
-https://github.com/Biohub/esm,ESM,https://github.com/imranq2,github,https://github.com/imranq2,,imranq2,Imran Qureshi,2025-09-19T19:48:07Z,2025-09-19T19:48:07Z
-https://github.com/Biohub/esm,ESM,https://github.com/ventura-rivera,github,https://github.com/ventura-rivera,,ventura-rivera,Ventura Rivera,2025-09-23T22:09:52Z,2025-09-23T22:09:52Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/tomsercu,github,https://github.com/tomsercu,,tomsercu,Tom Sercu,2020-09-01T15:14:09Z,2023-04-18T18:28:57Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/joshim5,github,https://github.com/joshim5,,joshim5,Joshua Meier,2020-09-02T05:06:34Z,2020-12-17T20:35:21Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/jasoniliu,github,https://github.com/jasoniliu,,jasoniliu,jasoniliu,2020-09-02T06:23:56Z,2021-10-21T04:54:56Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/brettkoonce,github,https://github.com/brettkoonce,,brettkoonce,brett koonce,2020-09-09T22:57:20Z,2020-09-09T22:57:20Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/rmrao,github,https://github.com/rmrao,,rmrao,Roshan Rao,2020-11-18T16:14:54Z,2023-06-20T05:11:43Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/sbonner0,github,https://github.com/sbonner0,https://orcid.org/0000-0001-6008-358X,sbonner0,sbonner0,2021-05-19T20:16:46Z,2021-05-19T20:16:46Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/cutecutecat,github,https://github.com/cutecutecat,,cutecutecat,cutecutecat,2021-07-15T13:34:15Z,2021-07-15T13:34:15Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/luoyunan,github,https://github.com/luoyunan,,luoyunan,Yunan Luo,2021-07-23T19:44:18Z,2021-07-23T19:44:18Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/kiramt,github,https://github.com/kiramt,,kiramt,Kira Mourao,2021-11-10T11:58:09Z,2021-11-10T11:58:09Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/chloechsu,github,https://github.com/chloechsu,,chloechsu,Chloe Hsu,2022-04-11T19:34:32Z,2023-01-29T14:49:03Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/Jacoberts,github,https://github.com/Jacoberts,,Jacoberts,Jacob Buswell Roberts,2022-07-08T19:46:16Z,2022-07-20T15:47:35Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/nikita-smetanin,github,https://github.com/nikita-smetanin,,nikita-smetanin,Nikita Smetanin,2022-08-22T12:28:52Z,2022-11-17T12:03:13Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/Alexperiments,github,https://github.com/Alexperiments,,Alexperiments,Alessandro Diana,2022-09-01T09:11:04Z,2022-09-19T22:37:32Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/walid0925,github,https://github.com/walid0925,,walid0925,Walid Ahmad,2022-09-29T13:45:29Z,2022-09-29T13:45:29Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/eric-tc-wong,github,https://github.com/eric-tc-wong,,eric-tc-wong,Eric Wong,2022-10-12T14:45:23Z,2022-10-12T14:45:23Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/ebetica,github,https://github.com/ebetica,https://orcid.org/0000-0002-0883-1373,ebetica,ebetica,2022-11-01T14:43:00Z,2023-03-27T18:48:40Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/amorehead,github,https://github.com/amorehead,https://orcid.org/0000-0002-0586-6191,amorehead,amorehead,2022-11-11T18:59:19Z,2022-11-11T18:59:19Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/YaoYinYing,github,https://github.com/YaoYinYing,https://orcid.org/0000-0002-9545-6582,YaoYinYing,YaoYinYing,2022-11-19T04:04:15Z,2022-11-22T10:25:28Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/naailkhan28,github,https://github.com/naailkhan28,,naailkhan28,Naail Kashif-Khan,2022-11-24T14:29:44Z,2023-02-21T13:04:26Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/brianhie,github,https://github.com/brianhie,,brianhie,Brian Hie,2023-02-17T17:19:52Z,2023-04-17T01:51:25Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/w3ntinglu,github,https://github.com/w3ntinglu,,w3ntinglu,w3ntinglu,2023-03-16T23:59:53Z,2023-04-03T17:01:30Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/moritzschaefer,github,https://github.com/moritzschaefer,,moritzschaefer,Moritz,2023-03-20T15:27:59Z,2023-03-20T15:27:59Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/andersoncarlosfs,github,https://github.com/andersoncarlosfs,,andersoncarlosfs,Anderson Carlos Ferreira da Silva,2023-03-27T18:19:58Z,2023-03-27T18:19:58Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/latticetower,github,https://github.com/latticetower,,latticetower,Tanya Malygina,2023-06-20T05:12:52Z,2023-06-20T05:12:52Z
-https://github.com/facebookresearch/esm,ESM (original) / ESMFold,https://github.com/scandido,github,https://github.com/scandido,,scandido,Salvatore Candido,2023-06-27T15:29:55Z,2023-06-27T15:29:55Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/nrbennet,github,https://github.com/nrbennet,,nrbennet,Nathaniel Bennett,2023-03-31T15:15:44Z,2023-04-14T20:05:24Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/jasonkyuyim,github,https://github.com/jasonkyuyim,https://orcid.org/0000-0003-0575-7400,jasonkyuyim,jasonkyuyim,2023-03-31T16:07:28Z,2023-03-31T16:07:28Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/decarboxy,github,https://github.com/decarboxy,,decarboxy,Sam DeLuca,2023-04-03T21:33:05Z,2023-04-03T21:33:05Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/BrandonFrenz,github,https://github.com/BrandonFrenz,,BrandonFrenz,Brandon Frenz,2023-04-05T17:36:56Z,2023-04-05T17:36:56Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/davidcjuergens,github,https://github.com/davidcjuergens,,davidcjuergens,David Juergens,2023-04-14T20:04:08Z,2025-06-23T00:56:19Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/brianloyal,github,https://github.com/brianloyal,,brianloyal,Brian Loyal,2023-04-21T20:10:10Z,2023-04-21T20:10:10Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/jsrimr,github,https://github.com/jsrimr,,jsrimr,Jungsub Lim,2023-04-25T23:05:59Z,2023-04-25T23:05:59Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/rhsimplex,github,https://github.com/rhsimplex,,rhsimplex,Ryan Henderson,2023-04-26T16:07:58Z,2023-04-26T16:07:58Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/ISDementyev,github,https://github.com/ISDementyev,,ISDementyev,Ilya S. Dementyev,2023-05-03T02:04:43Z,2023-05-03T02:04:43Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/tmsincomb,github,https://github.com/tmsincomb,,tmsincomb,Troy Sincomb,2023-05-30T10:44:43Z,2023-05-30T10:44:43Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/roccomoretti,github,https://github.com/roccomoretti,,roccomoretti,Rocco Moretti,2023-05-30T10:45:50Z,2023-06-27T15:38:38Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/lyskov,github,https://github.com/lyskov,,lyskov,Sergey Lyskov,2023-06-01T19:41:09Z,2025-06-23T18:49:31Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/nzrandol,github,https://github.com/nzrandol,,nzrandol,Nick Randolph,2023-06-22T17:03:14Z,2023-06-22T17:03:14Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/javierbq,github,https://github.com/javierbq,,javierbq,Javier Castellanos,2023-07-25T17:16:40Z,2023-07-25T17:16:40Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/joewatchwell,github,https://github.com/joewatchwell,,joewatchwell,Joseph Watson/Watchwell,2023-10-03T21:31:36Z,2024-08-26T17:35:40Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/BYachnin,github,https://github.com/BYachnin,https://orcid.org/0000-0001-6812-6329,BYachnin,BYachnin,2025-05-16T14:31:01Z,2025-06-17T17:24:16Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/rclune,github,https://github.com/rclune,https://orcid.org/0000-0002-6183-6579,rclune,rclune,2025-07-14T22:58:06Z,2026-04-24T18:47:30Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/OrangeCatzhang,github,https://github.com/OrangeCatzhang,,OrangeCatzhang,Orange,2025-08-11T09:24:52Z,2025-08-11T09:24:52Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/woodsh17,github,https://github.com/woodsh17,,woodsh17,Hope Woods,2025-09-23T16:38:58Z,2025-11-20T16:02:33Z
-https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/leonardomarino,github,https://github.com/leonardomarino,,leonardomarino,Leonardo Marino-Ramirez,2026-04-24T16:41:07Z,2026-04-24T16:41:07Z
-https://github.com/baker-laboratory/rf_diffusion_all_atom,RFdiffusion All-Atom,https://github.com/w-ahern,github,https://github.com/w-ahern,,w-ahern,Brian Ahern,2024-03-05T21:22:21Z,2024-03-05T21:33:15Z
-https://github.com/baker-laboratory/rf_diffusion_all_atom,RFdiffusion All-Atom,https://github.com/ikalvet,github,https://github.com/ikalvet,,ikalvet,Indrek Kalvet,2024-03-07T02:56:35Z,2024-03-07T02:56:35Z
-https://github.com/baker-laboratory/rf_diffusion_all_atom,RFdiffusion All-Atom,https://github.com/r-krishna,github,https://github.com/r-krishna,,r-krishna,Rohith Krishna,2024-03-13T17:15:07Z,2024-03-13T17:15:07Z
-https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://github.com/dauparas,github,https://github.com/dauparas,,dauparas,Justas Dauparas,2022-05-26T02:38:14Z,2023-06-27T18:49:19Z
-https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://github.com/sokrypton,github,https://github.com/sokrypton,,sokrypton,Sergey Ovchinnikov,2022-06-05T23:18:49Z,2022-09-30T12:21:34Z
-https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://orcid.org/0000-0002-4304-8106,orcid,,https://orcid.org/0000-0002-4304-8106,0000-0002-4304-8106,Simon Leonard Dürr,2022-06-06T06:05:38Z,2022-06-06T06:05:38Z
-https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://github.com/decarboxy,github,https://github.com/decarboxy,,decarboxy,Sam DeLuca,2022-07-27T15:08:02Z,2022-07-27T15:08:02Z
-https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://orcid.org/0000-0003-0981-9605,orcid,,https://orcid.org/0000-0003-0981-9605,0000-0003-0981-9605,Benjamin FRY,2022-08-17T20:17:22Z,2022-08-17T20:17:22Z
-https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://github.com/roccomoretti,github,https://github.com/roccomoretti,,roccomoretti,Rocco Moretti,2022-11-28T18:03:13Z,2022-11-28T18:03:13Z
-https://github.com/generatebio/chroma,Chroma,https://github.com/frank-oplinger,github,https://github.com/frank-oplinger,,frank-oplinger,frank-oplinger,2023-11-15T14:25:41Z,2023-11-15T14:25:41Z
-https://github.com/generatebio/chroma,Chroma,https://github.com/aismail3-gnr8,github,https://github.com/aismail3-gnr8,,aismail3-gnr8,aismail3-gnr8,2023-11-15T15:25:31Z,2024-01-22T14:27:06Z
-https://github.com/generatebio/chroma,Chroma,https://github.com/zak-generate,github,https://github.com/zak-generate,,zak-generate,zak-generate,2023-11-15T18:30:19Z,2023-11-15T18:30:19Z
-https://github.com/generatebio/chroma,Chroma,https://github.com/wujiewang,github,https://github.com/wujiewang,,wujiewang,Wujie Wang,2023-11-17T03:58:04Z,2023-12-01T20:29:56Z
-https://github.com/ProteinDesignLab/protpardelle,Protpardelle,https://github.com/alexechu,github,https://github.com/alexechu,,alexechu,Alex Chu,2023-09-08T00:33:29Z,2024-03-29T23:10:06Z
-https://github.com/ProteinDesignLab/protpardelle,Protpardelle,https://orcid.org/0000-0002-4304-8106,orcid,,https://orcid.org/0000-0002-4304-8106,0000-0002-4304-8106,Simon Leonard Dürr,2023-09-14T19:19:25Z,2023-09-14T19:19:25Z
-https://github.com/ProteinDesignLab/protpardelle,Protpardelle,https://github.com/zhkim216,github,https://github.com/zhkim216,,zhkim216,jinho,2024-07-09T00:43:29Z,2024-12-01T07:02:57Z
-https://github.com/ProteinDesignLab/protpardelle,Protpardelle,https://github.com/gelnesr,github,https://github.com/gelnesr,https://orcid.org/0000-0003-4857-9464,gelnesr,gelnesr,2025-02-18T19:19:31Z,2025-02-18T19:19:31Z
-https://github.com/ProteinDesignLab/protpardelle,Protpardelle,https://github.com/tianyu-lu,github,https://github.com/tianyu-lu,,tianyu-lu,Tianyu Lu,2025-08-27T02:00:40Z,2025-08-27T02:01:03Z
-https://github.com/jasonkyuyim/se3_diffusion,FrameDiff,https://github.com/jasonkyuyim,github,https://github.com/jasonkyuyim,https://orcid.org/0000-0003-0575-7400,jasonkyuyim,jasonkyuyim,2023-02-13T01:56:23Z,2023-07-03T21:51:00Z
-https://github.com/jasonkyuyim/se3_diffusion,FrameDiff,https://github.com/pengzhangzhi,github,https://github.com/pengzhangzhi,,pengzhangzhi,Fred,2023-04-15T07:22:57Z,2023-04-16T08:49:08Z
-https://github.com/jasonkyuyim/se3_diffusion,FrameDiff,https://github.com/Wangchentong,github,https://github.com/Wangchentong,,Wangchentong,Wangchentong,2023-05-09T05:10:04Z,2023-05-09T05:10:04Z
-https://github.com/jasonkyuyim/se3_diffusion,FrameDiff,https://github.com/amorehead,github,https://github.com/amorehead,https://orcid.org/0000-0002-0586-6191,amorehead,amorehead,2023-06-28T17:43:57Z,2023-06-28T17:43:57Z
-https://github.com/martinpacesa/BindCraft,BindCraft,https://github.com/martinpacesa,github,https://github.com/martinpacesa,https://orcid.org/0000-0003-1560-5769,martinpacesa,martinpacesa,2024-09-18T10:45:09Z,2026-05-11T10:53:15Z
-https://github.com/martinpacesa/BindCraft,BindCraft,https://github.com/kyleford8,github,https://github.com/kyleford8,,kyleford8,kyleford8,2024-10-24T14:50:07Z,2024-10-24T14:50:07Z
-https://github.com/sokrypton/ColabDesign,ColabDesign,https://github.com/sokrypton,github,https://github.com/sokrypton,,sokrypton,Sergey Ovchinnikov,2022-02-02T03:43:06Z,2025-10-23T04:43:47Z
-https://github.com/sokrypton/ColabDesign,ColabDesign,https://github.com/hunarbatra,github,https://github.com/hunarbatra,,hunarbatra,Hunar Batra,2022-08-17T21:35:03Z,2022-08-17T21:35:03Z
-https://github.com/sokrypton/ColabDesign,ColabDesign,https://github.com/andrewfavor95,github,https://github.com/andrewfavor95,,andrewfavor95,Andrew Favor,2022-09-10T08:04:50Z,2022-09-10T08:04:50Z
-https://github.com/sokrypton/ColabDesign,ColabDesign,https://github.com/KeaunAmani,github,https://github.com/KeaunAmani,,KeaunAmani,Keaun Amani,2023-07-12T11:39:39Z,2023-07-12T11:39:39Z
-https://github.com/sokrypton/ColabDesign,ColabDesign,https://github.com/stephen-rettie,github,https://github.com/stephen-rettie,,stephen-rettie,Stephen Rettie,2024-01-31T03:09:20Z,2024-02-01T02:02:42Z
-https://github.com/sokrypton/ColabDesign,ColabDesign,https://github.com/brennanaba,github,https://github.com/brennanaba,,brennanaba,Brennan Abanades Kenyon,2024-10-27T14:48:49Z,2024-10-27T14:48:49Z
-https://github.com/NatLabRockies/EvoProtGrad,EvoProtGrad,https://github.com/pemami4911,github,https://github.com/pemami4911,,pemami4911,Patrick Emami,2024-06-14T16:52:19Z,2024-08-06T05:25:29Z
-https://github.com/RosettaCommons/protein_generator,ProteinGenerator,https://github.com/SamTipps,github,https://github.com/SamTipps,,SamTipps,Sam Tipps,2023-07-01T20:38:09Z,2023-07-01T20:38:09Z
-https://github.com/RosettaCommons/protein_generator,ProteinGenerator,https://github.com/geraseva,github,https://github.com/geraseva,https://orcid.org/0009-0006-6656-8995,geraseva,geraseva,2024-10-10T15:28:18Z,2024-10-10T15:28:18Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/aleaverfay,github,https://github.com/aleaverfay,,aleaverfay,Andrew Leaver-Fay,2011-08-19T11:53:23Z,2022-03-21T20:54:47Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/lyskov,github,https://github.com/lyskov,,lyskov,Sergey Lyskov,2011-08-19T15:57:52Z,2026-05-13T19:36:11Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/momeara,github,https://github.com/momeara,https://orcid.org/0000-0002-3128-5331,momeara,momeara,2011-08-20T17:20:06Z,2014-06-22T17:39:42Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/willsheffler,github,https://github.com/willsheffler,https://orcid.org/0000-0002-3659-9559,willsheffler,willsheffler,2011-08-21T01:45:15Z,2017-02-08T13:20:50Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/davidekim,github,https://github.com/davidekim,,davidekim,David E Kim,2011-08-23T20:38:20Z,2021-09-28T23:33:52Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/rhiju,github,https://github.com/rhiju,,rhiju,Rhiju Das,2011-08-24T21:56:44Z,2023-02-05T18:31:30Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/langeolli,github,https://github.com/langeolli,,langeolli,langeolli,2011-08-28T09:26:15Z,2014-05-18T09:20:59Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/roccomoretti,github,https://github.com/roccomoretti,,roccomoretti,Rocco Moretti,2011-09-01T22:29:11Z,2026-05-15T20:50:12Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/sarelf,github,https://github.com/sarelf,,sarelf,Sarel,2011-09-08T14:41:40Z,2015-08-21T05:34:03Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/fdimaio,github,https://github.com/fdimaio,,fdimaio,Frank DiMaio,2011-09-09T23:38:38Z,2023-11-28T18:02:54Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/glemmon,github,https://github.com/glemmon,,glemmon,Gordon Lemmon,2011-09-12T22:30:03Z,2013-08-19T21:07:46Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/smlewis,github,https://github.com/smlewis,,smlewis,Steven Lewis,2011-09-20T14:39:44Z,2022-06-21T17:28:11Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/stoneinter,github,https://github.com/stoneinter,,stoneinter,Lei Shi,2011-09-22T21:34:10Z,2014-02-22T06:15:06Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/possuhuang,github,https://github.com/possuhuang,,possuhuang,possu,2011-10-24T18:54:31Z,2017-12-22T03:58:06Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/mtyka,github,https://github.com/mtyka,,mtyka,Mike Tyka,2011-10-28T05:48:37Z,2013-08-16T20:21:11Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/jianqingxu,github,https://github.com/jianqingxu,,jianqingxu,Jianqing Xu,2011-12-10T00:46:49Z,2013-06-11T05:02:17Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/jadolfbr,github,https://github.com/jadolfbr,,jadolfbr,Jared Adolf-Bryfogle,2012-07-26T20:35:24Z,2023-09-19T19:49:21Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/tlinsky,github,https://github.com/tlinsky,,tlinsky,Thomas Linsky,2012-11-22T02:17:56Z,2021-03-25T19:54:04Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/gideonla,github,https://github.com/gideonla,,gideonla,GIdeon Lapidoth,2012-12-02T12:08:13Z,2018-12-14T16:33:56Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/weitzner,github,https://github.com/weitzner,,weitzner,Brian Weitzner,2013-05-01T21:08:14Z,2022-01-19T01:14:22Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/JWLabonte,github,https://github.com/JWLabonte,,JWLabonte,Labonte,2013-05-02T22:36:00Z,2022-06-15T15:44:20Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/vmullig,github,https://github.com/vmullig,,vmullig,Vikram K. Mulligan,2013-06-07T00:34:13Z,2023-08-18T15:32:04Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/hahnbeom,github,https://github.com/hahnbeom,,hahnbeom,Hahnbeom Park,2013-07-16T04:36:13Z,2020-05-29T20:22:53Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/everyday847,github,https://github.com/everyday847,,everyday847,Andy Watkins,2013-07-27T23:33:42Z,2023-08-23T18:28:03Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/rfalford12,github,https://github.com/rfalford12,,rfalford12,Rebecca Alford,2014-01-09T19:05:50Z,2019-10-29T12:37:43Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/jkleman,github,https://github.com/jkleman,,jkleman,Julia Koehler Leman,2014-03-16T03:22:33Z,2021-08-03T18:47:22Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/bcov77,github,https://github.com/bcov77,,bcov77,Brian Coventry,2017-06-17T00:00:49Z,2026-05-08T20:30:58Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/klimaj,github,https://github.com/klimaj,,klimaj,Jason C. Klima,2017-10-07T00:02:13Z,2026-05-18T18:40:55Z
-https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/JackMaguire,github,https://github.com/JackMaguire,,JackMaguire,Jack Maguire,2019-04-30T12:02:56Z,2025-02-04T20:59:10Z
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/lyskov,github,https://github.com/lyskov,,lyskov,Sergey Lyskov,2019-05-24T20:53:29Z,2026-02-27T22:47:22Z
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/kathyle9,github,https://github.com/kathyle9,,kathyle9,Kathy Le,2019-05-31T14:43:18Z,2024-01-22T08:50:35Z
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/JackMaguire,github,https://github.com/JackMaguire,,JackMaguire,Jack Maguire,2019-08-14T13:52:55Z,2019-12-11T15:33:41Z
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/jadolfbr,github,https://github.com/jadolfbr,,jadolfbr,Jared Adolf-Bryfogle,2019-08-28T20:57:41Z,2021-08-04T14:18:44Z
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/klimaj,github,https://github.com/klimaj,,klimaj,Jason C. Klima,2019-10-02T19:03:45Z,2020-09-21T18:52:43Z
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/ramyarangan,github,https://github.com/ramyarangan,,ramyarangan,Ramya Rangan,2019-11-04T23:04:06Z,2020-02-10T21:51:54Z
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/maa805,github,https://github.com/maa805,,maa805,Matt Adrianowycz,2019-11-05T18:09:08Z,2020-01-10T23:26:20Z
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/jjgray,github,https://github.com/jjgray,,jjgray,Jeffrey Gray,2020-01-08T21:24:21Z,2024-02-07T14:19:27Z
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/rfalford12,github,https://github.com/rfalford12,,rfalford12,Rebecca Alford,2020-01-22T14:17:27Z,2020-04-02T15:58:54Z
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/yuanhan-wu,github,https://github.com/yuanhan-wu,,yuanhan-wu,Yuanhan Wu,2020-02-27T16:39:28Z,2020-03-11T14:10:11Z
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/ajasja,github,https://github.com/ajasja,https://orcid.org/0000-0002-2171-1579,ajasja,ajasja,2020-03-06T02:07:38Z,2020-03-06T18:00:24Z
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/aloshbau,github,https://github.com/aloshbau,,aloshbau,Amanda Loshbaugh,2020-05-08T19:48:02Z,2020-05-19T17:58:51Z
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/aleaverfay,github,https://github.com/aleaverfay,,aleaverfay,Andrew Leaver-Fay,2021-03-02T21:12:34Z,2021-03-03T15:50:15Z
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/JWLabonte,github,https://github.com/JWLabonte,,JWLabonte,Labonte,2021-07-14T02:56:06Z,2021-07-14T13:06:36Z
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/kamurani,github,https://github.com/kamurani,,kamurani,Kâmuran İmran,2024-08-05T03:59:42Z,2024-08-05T04:14:47Z
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/roccomoretti,github,https://github.com/roccomoretti,,roccomoretti,Rocco Moretti,2024-08-12T18:40:39Z,2024-08-12T18:41:07Z
-https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta (notebooks),https://github.com/rclune,github,https://github.com/rclune,https://orcid.org/0000-0002-6183-6579,rclune,rclune,2026-02-05T01:27:55Z,2026-02-27T18:37:09Z
-https://github.com/biopython/biopython,Biopython,https://github.com/etal,github,https://github.com/etal,https://orcid.org/0000-0002-8106-0720,etal,etal,2009-05-06T20:55:58Z,2019-02-01T15:02:01Z
-https://github.com/biopython/biopython,Biopython,https://github.com/peterjc,github,https://github.com/peterjc,https://orcid.org/0000-0001-9513-9993,peterjc,peterjc,2009-05-15T19:19:08Z,2026-05-22T02:40:30Z
-https://github.com/biopython/biopython,Biopython,https://github.com/chapmanb,github,https://github.com/chapmanb,,chapmanb,Brad Chapman,2009-10-07T11:12:56Z,2016-02-18T14:25:15Z
-https://github.com/biopython/biopython,Biopython,https://github.com/tiagoantao,github,https://github.com/tiagoantao,https://orcid.org/0000-0002-7269-5513,tiagoantao,tiagoantao,2010-03-31T21:47:20Z,2017-05-24T09:39:13Z
-https://github.com/biopython/biopython,Biopython,https://github.com/pgarland,github,https://github.com/pgarland,,pgarland,Phillip Garland,2010-10-24T23:10:50Z,2013-06-28T22:55:27Z
-https://github.com/biopython/biopython,Biopython,https://github.com/brandoninvergo,github,https://github.com/brandoninvergo,,brandoninvergo,Brandon Invergo,2011-02-22T16:06:56Z,2019-03-15T16:20:43Z
-https://github.com/biopython/biopython,Biopython,https://github.com/DavidCain,github,https://github.com/DavidCain,,DavidCain,David Cain,2011-08-01T04:50:31Z,2024-05-12T21:15:20Z
-https://github.com/biopython/biopython,Biopython,https://github.com/bow,github,https://github.com/bow,https://orcid.org/0000-0003-0499-0948,bow,bow,2012-05-09T08:44:06Z,2023-11-19T04:55:39Z
-https://github.com/biopython/biopython,Biopython,https://github.com/BioGeek,github,https://github.com/BioGeek,https://orcid.org/0000-0003-4480-5567,BioGeek,BioGeek,2012-08-06T13:29:45Z,2017-11-06T19:02:07Z
-https://github.com/biopython/biopython,Biopython,https://github.com/mdehoon,github,https://github.com/mdehoon,https://orcid.org/0000-0003-0489-2352,mdehoon,mdehoon,2012-08-14T03:01:13Z,2026-04-14T07:40:17Z
-https://github.com/biopython/biopython,Biopython,https://github.com/cbrueffer,github,https://github.com/cbrueffer,https://orcid.org/0000-0002-3826-0989,cbrueffer,cbrueffer,2012-11-04T18:18:18Z,2022-05-05T20:41:01Z
-https://github.com/biopython/biopython,Biopython,https://github.com/bendmorris,github,https://github.com/bendmorris,,bendmorris,Ben Morris,2013-02-10T21:23:17Z,2013-08-26T15:42:41Z
-https://github.com/biopython/biopython,Biopython,https://github.com/vincentdavis,github,https://github.com/vincentdavis,,vincentdavis,Vincent,2013-12-27T02:37:04Z,2021-09-22T23:26:29Z
-https://github.com/biopython/biopython,Biopython,https://github.com/lijax,github,https://github.com/lijax,,lijax,yeyanbo,2014-01-16T04:31:11Z,2014-01-16T04:31:14Z
-https://github.com/biopython/biopython,Biopython,https://github.com/MarkusPiotrowski,github,https://github.com/MarkusPiotrowski,,MarkusPiotrowski,Markus Piotrowski,2014-03-27T17:19:42Z,2023-03-03T16:24:41Z
-https://github.com/biopython/biopython,Biopython,https://github.com/zruan,github,https://github.com/zruan,,zruan,Zheng Ruan,2014-04-20T16:57:54Z,2020-10-05T09:06:41Z
-https://github.com/biopython/biopython,Biopython,https://github.com/kblin,github,https://github.com/kblin,https://orcid.org/0000-0003-3764-6051,kblin,kblin,2014-07-05T09:15:16Z,2020-01-28T16:31:30Z
-https://github.com/biopython/biopython,Biopython,https://github.com/carlosp420,github,https://github.com/carlosp420,,carlosp420,Carlos Peña,2014-10-23T09:12:50Z,2020-07-11T18:45:40Z
-https://github.com/biopython/biopython,Biopython,https://orcid.org/0000-0001-9796-3193,orcid,,https://orcid.org/0000-0001-9796-3193,0000-0001-9796-3193,João Rodrigues,2015-04-18T16:35:33Z,2025-07-03T15:53:04Z
-https://github.com/biopython/biopython,Biopython,https://github.com/StefansM,github,https://github.com/StefansM,,StefansM,Stefans Mezulis,2016-11-07T12:49:48Z,2018-10-26T11:11:51Z
-https://github.com/biopython/biopython,Biopython,https://github.com/Gasta88,github,https://github.com/Gasta88,,Gasta88,FGastaldello,2017-02-22T14:45:55Z,2018-05-31T13:26:27Z
-https://github.com/biopython/biopython,Biopython,https://github.com/chris-rands,github,https://github.com/chris-rands,,chris-rands,Chris Rands,2017-07-05T09:22:44Z,2021-09-11T11:15:07Z
-https://github.com/biopython/biopython,Biopython,https://github.com/jgreener64,github,https://github.com/jgreener64,,jgreener64,Joe Greener,2017-07-20T12:08:01Z,2023-04-05T15:52:46Z
-https://github.com/biopython/biopython,Biopython,https://github.com/Amrithasuresh,github,https://github.com/Amrithasuresh,https://orcid.org/0000-0001-9341-2861,Amrithasuresh,Amrithasuresh,2018-03-22T10:22:50Z,2019-12-23T10:43:46Z
-https://github.com/biopython/biopython,Biopython,https://github.com/svalqui,github,https://github.com/svalqui,,svalqui,Sergio,2018-07-11T07:57:12Z,2021-03-23T09:28:27Z
-https://github.com/biopython/biopython,Biopython,https://github.com/nimne,github,https://github.com/nimne,,nimne,Nick Negretti,2018-08-22T13:56:08Z,2019-09-05T16:04:51Z
-https://github.com/biopython/biopython,Biopython,https://github.com/rob-miller,github,https://github.com/rob-miller,,rob-miller,Rob Miller,2019-02-21T12:45:05Z,2025-10-10T12:20:13Z
-https://github.com/biopython/biopython,Biopython,https://github.com/gouttegd,github,https://github.com/gouttegd,https://orcid.org/0000-0002-6095-8718,gouttegd,gouttegd,2019-08-21T15:46:22Z,2025-10-01T18:19:11Z
-https://github.com/biopython/biopython,Biopython,https://github.com/jvfe,github,https://github.com/jvfe,https://orcid.org/0000-0001-7513-7376,jvfe,jvfe,2020-07-20T22:04:55Z,2020-07-25T19:56:04Z
-https://github.com/biopython/biopython,Biopython,https://github.com/drs,github,https://github.com/drs,,drs,Samuel Prince,2025-03-22T05:59:36Z,2025-03-22T05:59:36Z
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/Augustin-Zidek,github,https://github.com/Augustin-Zidek,,Augustin-Zidek,Augustin Žídek,2021-07-15,2026-04-14
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/saran-t,github,https://github.com/saran-t,,saran-t,Saran Tunyasuvunakool,2021-07-22,2021-07-22
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/tomwardio,github,https://github.com/tomwardio,,tomwardio,Tom Ward,2021-07-27,2022-06-14
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/mfigurnov,github,https://github.com/mfigurnov,,mfigurnov,Michael Figurnov,2021-08-31,2022-02-16
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/andycowie,github,https://github.com/andycowie,,andycowie,andycowie,2021-11-04,2022-12-15
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/rich12321,github,https://github.com/rich12321,,rich12321,rich12321,2021-11-05,2022-03-07
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/tfgg,github,https://github.com/tfgg,,tfgg,Tim Green,2022-01-19,2022-01-19
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/tomhennigan,github,https://github.com/tomhennigan,,tomhennigan,Tom Hennigan,2022-02-14,2022-02-14
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/sbodenstein,github,https://github.com/sbodenstein,,sbodenstein,Sebastian Bodenstein,2022-03-02,2022-03-08
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/rchen152,github,https://github.com/rchen152,,rchen152,Rebecca Chen,2022-03-21,2022-03-21
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/Htomlinson14,github,https://github.com/Htomlinson14,,Htomlinson14,Hamish Tomlinson,2022-08-31,2024-04-15
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/hawkinsp,github,https://github.com/hawkinsp,,hawkinsp,Peter Hawkins,2022-10-13,2024-07-25
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/alexanderimanicowenrivers,github,https://github.com/alexanderimanicowenrivers,https://orcid.org/0000-0002-2669-9513,alexanderimanicowenrivers,alexanderimanicowenrivers,2022-12-21,2023-01-10
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/joshabramson,github,https://github.com/joshabramson,,joshabramson,Josh Abramson,2022-12-21,2026-03-12
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/dlasecki,github,https://github.com/dlasecki,,dlasecki,Dariusz Lasecki,2023-06-16,2025-01-29
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/Jane333,github,https://github.com/Jane333,,Jane333,Jana Cavojska,2023-07-19,2023-07-20
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/mattjj,github,https://github.com/mattjj,,mattjj,Matthew Johnson,2023-12-15,2023-12-15
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/h-joo,github,https://github.com/h-joo,,h-joo,Hana Joo,2025-04-29,2025-04-29
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/rpachauri,github,https://github.com/rpachauri,,rpachauri,rpachauri,2025-08-20,2025-10-16
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/harshtikuu,github,https://github.com/harshtikuu,,harshtikuu,Harsh Tiku,2025-09-24,2025-10-31
+https://github.com/google-deepmind/alphafold,AlphaFold 2,https://github.com/akviz,github,https://github.com/akviz,,akviz,akviz,2025-09-29,2025-09-29
+https://github.com/RosettaCommons/RoseTTAFold,RoseTTAFold,https://github.com/huhlim,github,https://github.com/huhlim,,huhlim,Lim Heo,2021-07-06,2021-07-06
+https://github.com/RosettaCommons/RoseTTAFold,RoseTTAFold,https://github.com/runitralph,github,https://github.com/runitralph,,runitralph,Raphael Ndem,2021-07-15,2021-07-15
+https://github.com/RosettaCommons/RoseTTAFold,RoseTTAFold,https://github.com/neilfleckSCRI,github,https://github.com/neilfleckSCRI,,neilfleckSCRI,neilfleckSCRI,2021-08-03,2021-08-03
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/alquraishi,github,https://github.com/alquraishi,,alquraishi,Mohammed AlQuraishi,2021-09-14,2021-09-20
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/gahdritz,github,https://github.com/gahdritz,,gahdritz,Gustaf Ahdritz,2021-09-17,2023-10-20
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/sachinkadyan7,github,https://github.com/sachinkadyan7,,sachinkadyan7,Sachin Kadyan,2021-10-08,2024-05-09
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/marta-sd,github,https://github.com/marta-sd,,marta-sd,Marta Stepniewska-Dziubinska,2021-10-29,2021-11-04
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/cclauss,github,https://github.com/cclauss,,cclauss,Christian Clauss,2021-11-15,2021-11-15
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/yuzhiguo07,github,https://github.com/yuzhiguo07,,yuzhiguo07,yuzhiguo07,2021-11-29,2021-11-29
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/lilleswing,github,https://github.com/lilleswing,https://orcid.org/0000-0003-2361-3267,lilleswing,lilleswing,2022-01-20,2022-01-20
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/lhatsk,github,https://github.com/lhatsk,,lhatsk,lhatsk,2022-01-20,2022-01-20
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/decarboxy,github,https://github.com/decarboxy,,decarboxy,Sam DeLuca,2022-02-01,2022-12-13
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/brianloyal,github,https://github.com/brianloyal,,brianloyal,Brian Loyal,2022-06-23,2022-08-12
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/sdvillal,github,https://github.com/sdvillal,,sdvillal,Santi Villalba,2022-07-16,2022-07-16
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/josemduarte,github,https://github.com/josemduarte,,josemduarte,Jose Manuel Duarte,2022-07-18,2023-03-07
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/nikita-smetanin,github,https://github.com/nikita-smetanin,,nikita-smetanin,Nikita Smetanin,2022-07-28,2022-08-22
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/bozhang-hpc,github,https://github.com/bozhang-hpc,,bozhang-hpc,Bo Zhang,2022-07-29,2022-08-02
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/NZ99,github,https://github.com/NZ99,,NZ99,Niccolò Zanichelli,2022-07-31,2022-08-31
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/timodonnell,github,https://github.com/timodonnell,https://orcid.org/0000-0002-9949-069X,timodonnell,timodonnell,2022-08-11,2022-08-29
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/mhrmsn,github,https://github.com/mhrmsn,,mhrmsn,Marko Hermsen,2022-09-21,2022-09-21
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/jonathanking,github,https://github.com/jonathanking,,jonathanking,Jonathan King,2022-10-08,2023-03-14
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/christinaflo,github,https://github.com/christinaflo,,christinaflo,Christina Floristean,2023-02-17,2024-05-09
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/awaelchli,github,https://github.com/awaelchli,,awaelchli,Adrian Wälchli,2023-02-26,2023-02-26
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/vaclavhanzl,github,https://github.com/vaclavhanzl,,vaclavhanzl,Vaclav Hanzl,2023-03-05,2024-10-22
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/dingquanyu,github,https://github.com/dingquanyu,,dingquanyu,Dingquan Yu,2023-06-17,2024-05-13
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/jnwei,github,https://github.com/jnwei,https://orcid.org/0000-0003-3567-9511,jnwei,jnwei,2023-09-18,2025-12-16
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/ljarosch,github,https://github.com/ljarosch,,ljarosch,ljarosch,2023-10-06,2024-11-14
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/mattwthompson,github,https://github.com/mattwthompson,,mattwthompson,Matt Thompson,2023-10-23,2023-10-23
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/controny,github,https://github.com/controny,,controny,Gengcong Yang,2024-02-06,2024-02-06
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/rostro36,github,https://github.com/rostro36,,rostro36,Jannik Gut,2024-02-20,2024-07-18
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/etowahadams,github,https://github.com/etowahadams,,etowahadams,etowahadams,2024-11-13,2025-02-23
+https://github.com/aqlaboratory/openfold,OpenFold,https://github.com/borisfom,github,https://github.com/borisfom,,borisfom,Boris Fomitchev,2025-09-07,2025-12-16
+https://github.com/HeliXonProtein/OmegaFold,OmegaFold,https://github.com/mooninrain,github,https://github.com/mooninrain,,mooninrain,Ruidong Wu,2022-07-25,2022-08-13
+https://github.com/HeliXonProtein/OmegaFold,OmegaFold,https://github.com/xiwen1995,github,https://github.com/xiwen1995,,xiwen1995,xiwen1995,2022-08-06,2022-08-13
+https://github.com/HeliXonProtein/OmegaFold,OmegaFold,https://github.com/Zuofan-Wu,github,https://github.com/Zuofan-Wu,,Zuofan-Wu,Zuofan Wu,2022-08-06,2022-08-06
+https://github.com/HeliXonProtein/OmegaFold,OmegaFold,https://github.com/hazemessamm,github,https://github.com/hazemessamm,,hazemessamm,Hazem Essam,2022-08-23,2022-08-23
+https://github.com/HeliXonProtein/OmegaFold,OmegaFold,https://github.com/jnooree,github,https://github.com/jnooree,https://orcid.org/0000-0002-4596-1257,jnooree,jnooree,2022-09-13,2022-09-13
+https://github.com/sokrypton/ColabFold,ColabFold,https://github.com/YoshitakaMo,github,https://github.com/YoshitakaMo,,YoshitakaMo,Yoshitaka Moriwaki,,
+https://github.com/sokrypton/ColabFold,ColabFold,https://github.com/milot-mirdita,github,https://github.com/milot-mirdita,,milot-mirdita,Milot Mirdita,,
+https://github.com/sokrypton/ColabFold,ColabFold,https://github.com/jkosinski,github,https://github.com/jkosinski,,jkosinski,Jan Kosinski,,
+https://github.com/sokrypton/ColabFold,ColabFold,https://github.com/sokrypton,github,https://github.com/sokrypton,,sokrypton,Sergey Ovchinnikov,,
+https://github.com/sokrypton/ColabFold,ColabFold,https://github.com/sooyoung-cha,github,https://github.com/sooyoung-cha,,sooyoung-cha,Sooyoung Cha,,
+https://github.com/sokrypton/ColabFold,ColabFold,https://github.com/lucidrains,github,https://github.com/lucidrains,,lucidrains,Phil Wang,,
+https://github.com/sokrypton/ColabFold,ColabFold,https://github.com/rachelse,github,https://github.com/rachelse,,rachelse,Rachel Seongeun Kim,,
+https://github.com/sokrypton/ColabFold,ColabFold,https://github.com/Poko18,github,https://github.com/Poko18,,Poko18,"Tadej Satler, PhD",,
+https://github.com/sokrypton/ColabFold,ColabFold,https://github.com/konstin,github,https://github.com/konstin,,konstin,konsti,,
+https://github.com/sokrypton/ColabFold,ColabFold,https://github.com/martin-steinegger,github,https://github.com/martin-steinegger,,martin-steinegger,Martin Steinegger,,
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/Augustin-Zidek,github,https://github.com/Augustin-Zidek,,Augustin-Zidek,Augustin Žídek,2024-11-11,2026-05-22
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/mlbileschi,github,https://github.com/mlbileschi,,mlbileschi,Maxwell Bileschi,2024-11-12,2024-11-12
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/jacobjinkelly,github,https://github.com/jacobjinkelly,,jacobjinkelly,Jacob Kelly,2024-11-14,2024-12-13
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/jsspencer,github,https://github.com/jsspencer,,jsspencer,James Spencer,2024-12-10,2026-02-25
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/andycowie,github,https://github.com/andycowie,,andycowie,andycowie,2025-01-09,2025-01-09
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/joshabramson,github,https://github.com/joshabramson,,joshabramson,Josh Abramson,2025-02-10,2025-12-02
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/khasanovaa,github,https://github.com/khasanovaa,,khasanovaa,Aliia Khasanova,2025-03-24,2025-03-24
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/vwbaker,github,https://github.com/vwbaker,,vwbaker,Tori Baker,2025-07-31,2025-07-31
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/bchetioui,github,https://github.com/bchetioui,,bchetioui,Benjamin Chetioui,2025-10-21,2025-10-21
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/caporalCoder,github,https://github.com/caporalCoder,,caporalCoder,Foromo Daniel Soromou,2025-11-04,2025-11-04
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/akviz,github,https://github.com/akviz,,akviz,akviz,2025-11-18,2026-03-25
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/rpachauri,github,https://github.com/rpachauri,,rpachauri,rpachauri,2025-11-30,2025-11-30
+https://github.com/google-deepmind/alphafold3,AlphaFold 3,https://github.com/QEDady,github,https://github.com/QEDady,,QEDady,Amer Esmail Elsheikh,2026-04-09,2026-04-09
+https://github.com/chaidiscovery/chai-lab,Chai-1,https://github.com/arogozhnikov,github,https://github.com/arogozhnikov,,arogozhnikov,Alex Rogozhnikov,2024-09-09,2025-12-03
+https://github.com/chaidiscovery/chai-lab,Chai-1,https://github.com/jackdent,github,https://github.com/jackdent,,jackdent,Jack Dent,2024-09-09,2026-04-11
+https://github.com/chaidiscovery/chai-lab,Chai-1,https://github.com/eltociear,github,https://github.com/eltociear,,eltociear,Ikko Eltociear Ashimine,2024-09-09,2024-09-09
+https://github.com/chaidiscovery/chai-lab,Chai-1,https://github.com/wukevin,github,https://github.com/wukevin,,wukevin,Kevin Wu,2024-09-10,2026-03-23
+https://github.com/chaidiscovery/chai-lab,Chai-1,https://github.com/jacquesboitreaud,github,https://github.com/jacquesboitreaud,,jacquesboitreaud,Jacques Boitreaud,2024-09-10,2024-09-18
+https://github.com/chaidiscovery/chai-lab,Chai-1,https://github.com/vreis,github,https://github.com/vreis,,vreis,Vinicius Reis,2024-09-12,2024-09-12
+https://github.com/chaidiscovery/chai-lab,Chai-1,https://github.com/joshim5,github,https://github.com/joshim5,,joshim5,Joshua Meier,2024-11-20,2025-08-18
+https://github.com/chaidiscovery/chai-lab,Chai-1,https://github.com/danpf,github,https://github.com/danpf,https://orcid.org/0000-0001-7024-7998,danpf,danpf,2024-12-02,2024-12-02
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/jwohlwend,github,https://github.com/jwohlwend,,jwohlwend,Jeremy Wohlwend,2024-11-17,2026-05-25
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/omahs,github,https://github.com/omahs,,omahs,omahs,2024-11-19,2024-11-19
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/gcorso,github,https://github.com/gcorso,,gcorso,Gabriele Corso,2024-11-20,2026-05-25
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/Saro00,github,https://github.com/Saro00,,Saro00,Saro Passaro,2024-11-22,2025-06-07
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/https://github.com/dwilliams-genesis,github,https://github.com/https://github.com/dwilliams-genesis,https://orcid.org/0000-0002-4123-9339,https://github.com/dwilliams-genesis,https://github.com/dwilliams-genesis,2024-12-02,2024-12-03
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/jsilter,github,https://github.com/jsilter,,jsilter,Jacob Silterra,2024-12-03,2025-03-04
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/https://github.com/benf549,github,https://github.com/https://github.com/benf549,https://orcid.org/0000-0003-0981-9605,https://github.com/benf549,https://github.com/benf549,2024-12-06,2025-06-13
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/shenoynikhil,github,https://github.com/shenoynikhil,,shenoynikhil,Nikhil Shenoy,2024-12-26,2025-08-08
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/lbugnon,github,https://github.com/lbugnon,https://orcid.org/0000-0001-5702-946X,lbugnon,lbugnon,2024-12-26,2024-12-30
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/latkins,github,https://github.com/latkins,,latkins,Liam Atkinson,2025-01-09,2025-02-13
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/phue,github,https://github.com/phue,https://orcid.org/0000-0003-3315-2484,phue,phue,2025-01-23,2025-01-30
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/ioannisa92,github,https://github.com/ioannisa92,,ioannisa92,Ioannis Anastopoulos,2025-02-05,2025-03-21
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/dsmith111,github,https://github.com/dsmith111,,dsmith111,David Smith,2025-04-04,2025-04-04
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/darianyang,github,https://github.com/darianyang,https://orcid.org/0000-0002-8654-3529,darianyang,darianyang,2025-05-02,2025-05-08
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/Noahb930,github,https://github.com/Noahb930,,Noahb930,Noah Getz,2025-05-07,2025-09-08
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/KeaunAmani,github,https://github.com/KeaunAmani,,KeaunAmani,Keaun Amani,2025-05-14,2025-05-14
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/CurtisColwell,github,https://github.com/CurtisColwell,,CurtisColwell,Curtis Colwell,2025-06-11,2025-06-11
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/zeevick10,github,https://github.com/zeevick10,,zeevick10,FT,2025-06-15,2025-06-15
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/paulpham157,github,https://github.com/paulpham157,,paulpham157,Paul Pham,2025-06-16,2025-06-26
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/leopardracer,github,https://github.com/leopardracer,,leopardracer,Ihor,2025-06-17,2025-06-17
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/kilavvy,github,https://github.com/kilavvy,,kilavvy,kilavvy,2025-06-21,2025-06-21
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/gcroci2,github,https://github.com/gcroci2,https://orcid.org/0000-0002-0823-0121,gcroci2,gcroci2,2025-07-04,2025-07-04
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/JohnKirwan,github,https://github.com/JohnKirwan,https://orcid.org/0000-0001-5537-3574,JohnKirwan,JohnKirwan,2025-07-04,2025-07-04
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/tobiasploetz,github,https://github.com/tobiasploetz,,tobiasploetz,Tobias Ploetz,2025-07-11,2025-07-16
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/glukhove,github,https://github.com/glukhove,,glukhove,Ernest Glukhov,2025-07-11,2025-07-11
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/noah-boltz,github,https://github.com/noah-boltz,,noah-boltz,Noah Getz,2025-07-14,2025-08-06
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/Jnelen,github,https://github.com/Jnelen,https://orcid.org/0000-0002-9970-4950,Jnelen,Jnelen,2025-07-14,2025-07-15
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/JoshuaMeyers,github,https://github.com/JoshuaMeyers,,JoshuaMeyers,Joshua Meyers,2025-07-17,2025-08-19
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/tlitfin,github,https://github.com/tlitfin,https://orcid.org/0000-0002-4863-3865,tlitfin,tlitfin,2025-08-24,2025-08-24
+https://github.com/jwohlwend/boltz,Boltz-2,https://github.com/jeremyboltz,github,https://github.com/jeremyboltz,,jeremyboltz,jeremyboltz,2025-09-08,2025-09-08
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/tomsercu,github,https://github.com/tomsercu,,tomsercu,Tom Sercu,2020-09-01,2023-04-18
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/joshim5,github,https://github.com/joshim5,,joshim5,Joshua Meier,2020-09-02,2020-12-17
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/jasoniliu,github,https://github.com/jasoniliu,,jasoniliu,jasoniliu,2020-09-02,2021-10-21
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/brettkoonce,github,https://github.com/brettkoonce,,brettkoonce,brett koonce,2020-09-09,2020-09-09
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/rmrao,github,https://github.com/rmrao,,rmrao,Roshan Rao,2020-11-18,2023-06-20
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/sbonner0,github,https://github.com/sbonner0,https://orcid.org/0000-0001-6008-358X,sbonner0,sbonner0,2021-05-19,2021-05-19
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/cutecutecat,github,https://github.com/cutecutecat,,cutecutecat,cutecutecat,2021-07-15,2021-07-15
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/luoyunan,github,https://github.com/luoyunan,,luoyunan,Yunan Luo,2021-07-23,2021-07-23
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/kiramt,github,https://github.com/kiramt,,kiramt,Kira Mourao,2021-11-10,2021-11-10
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/chloechsu,github,https://github.com/chloechsu,,chloechsu,Chloe Hsu,2022-04-11,2023-01-29
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/Jacoberts,github,https://github.com/Jacoberts,,Jacoberts,Jacob Buswell Roberts,2022-07-08,2022-07-20
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/nikita-smetanin,github,https://github.com/nikita-smetanin,,nikita-smetanin,Nikita Smetanin,2022-08-22,2022-11-17
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/Alexperiments,github,https://github.com/Alexperiments,,Alexperiments,Alessandro Diana,2022-09-01,2022-09-19
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/walid0925,github,https://github.com/walid0925,,walid0925,Walid Ahmad,2022-09-29,2022-09-29
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/eric-tc-wong,github,https://github.com/eric-tc-wong,,eric-tc-wong,Eric Wong,2022-10-12,2022-10-12
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/ebetica,github,https://github.com/ebetica,https://orcid.org/0000-0002-0883-1373,ebetica,ebetica,2022-11-01,2023-03-27
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/amorehead,github,https://github.com/amorehead,https://orcid.org/0000-0002-0586-6191,amorehead,amorehead,2022-11-11,2022-11-11
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/YaoYinYing,github,https://github.com/YaoYinYing,https://orcid.org/0000-0002-9545-6582,YaoYinYing,YaoYinYing,2022-11-19,2022-11-22
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/naailkhan28,github,https://github.com/naailkhan28,,naailkhan28,Naail Kashif-Khan,2022-11-24,2023-02-21
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/brianhie,github,https://github.com/brianhie,,brianhie,Brian Hie,2023-02-17,2023-04-17
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/w3ntinglu,github,https://github.com/w3ntinglu,,w3ntinglu,w3ntinglu,2023-03-16,2023-04-03
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/moritzschaefer,github,https://github.com/moritzschaefer,,moritzschaefer,Moritz,2023-03-20,2023-03-20
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/andersoncarlosfs,github,https://github.com/andersoncarlosfs,,andersoncarlosfs,Anderson Carlos Ferreira da Silva,2023-03-27,2023-03-27
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/latticetower,github,https://github.com/latticetower,,latticetower,Tanya Malygina,2023-06-20,2023-06-20
+https://github.com/facebookresearch/esm,ESM2 / ESMFold,https://github.com/scandido,github,https://github.com/scandido,,scandido,Salvatore Candido,2023-06-27,2023-06-27
+https://github.com/westlake-repl/SaProt,SAProt,https://github.com/LTEnjoy,github,https://github.com/LTEnjoy,,LTEnjoy,Jin Su,,
+https://github.com/westlake-repl/SaProt,SAProt,https://github.com/memgonzales,github,https://github.com/memgonzales,,memgonzales,Mark Edward M. Gonzales,,
+https://github.com/westlake-repl/SaProt,SAProt,https://github.com/zhikaili1150,github,https://github.com/zhikaili1150,,zhikaili1150,Zhikai Li,,
+https://github.com/westlake-repl/SaProt,SAProt,https://github.com/SuperCarryDFY,github,https://github.com/SuperCarryDFY,,SuperCarryDFY,Fengyuan Dai,,
+https://github.com/westlake-repl/SaProt,SAProt,https://github.com/mahynotch,github,https://github.com/mahynotch,,mahynotch,Huaiyuan Ma,,
+https://github.com/westlake-repl/SaProt,SAProt,https://github.com/fajieyuan,github,https://github.com/fajieyuan,,fajieyuan,fajieyuan,,
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/nrbennet,github,https://github.com/nrbennet,,nrbennet,Nathaniel Bennett,2023-03-31,2023-04-14
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/jasonkyuyim,github,https://github.com/jasonkyuyim,https://orcid.org/0000-0003-0575-7400,jasonkyuyim,jasonkyuyim,2023-03-31,2023-03-31
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/decarboxy,github,https://github.com/decarboxy,,decarboxy,Sam DeLuca,2023-04-03,2023-04-03
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/BrandonFrenz,github,https://github.com/BrandonFrenz,,BrandonFrenz,Brandon Frenz,2023-04-05,2023-04-05
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/davidcjuergens,github,https://github.com/davidcjuergens,,davidcjuergens,David Juergens,2023-04-14,2025-06-23
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/brianloyal,github,https://github.com/brianloyal,,brianloyal,Brian Loyal,2023-04-21,2023-04-21
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/jsrimr,github,https://github.com/jsrimr,,jsrimr,Jungsub Lim,2023-04-25,2023-04-25
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/rhsimplex,github,https://github.com/rhsimplex,,rhsimplex,Ryan Henderson,2023-04-26,2023-04-26
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/ISDementyev,github,https://github.com/ISDementyev,,ISDementyev,Ilya S. Dementyev,2023-05-03,2023-05-03
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/roccomoretti,github,https://github.com/roccomoretti,,roccomoretti,Rocco Moretti,2023-05-30,2023-06-27
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/tmsincomb,github,https://github.com/tmsincomb,,tmsincomb,Troy Sincomb,2023-05-30,2023-05-30
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/lyskov,github,https://github.com/lyskov,,lyskov,Sergey Lyskov,2023-06-01,2025-06-23
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/nzrandol,github,https://github.com/nzrandol,,nzrandol,Nick Randolph,2023-06-22,2023-06-22
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/javierbq,github,https://github.com/javierbq,,javierbq,Javier Castellanos,2023-07-25,2023-07-25
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/joewatchwell,github,https://github.com/joewatchwell,,joewatchwell,Joseph Watson/Watchwell,2023-10-03,2024-08-26
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/BYachnin,github,https://github.com/BYachnin,https://orcid.org/0000-0001-6812-6329,BYachnin,BYachnin,2025-05-16,2025-06-17
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/rclune,github,https://github.com/rclune,https://orcid.org/0000-0002-6183-6579,rclune,rclune,2025-07-14,2026-04-24
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/OrangeCatzhang,github,https://github.com/OrangeCatzhang,,OrangeCatzhang,Orange,2025-08-11,2025-08-11
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/woodsh17,github,https://github.com/woodsh17,,woodsh17,Hope Woods,2025-09-23,2025-11-20
+https://github.com/RosettaCommons/RFdiffusion,RFdiffusion,https://github.com/leonardomarino,github,https://github.com/leonardomarino,,leonardomarino,Leonardo Marino-Ramirez,2026-04-24,2026-04-24
+https://github.com/baker-laboratory/rf_diffusion_all_atom,RFdiffusion All-Atom,https://github.com/w-ahern,github,https://github.com/w-ahern,,w-ahern,Brian Ahern,2024-03-05,2024-03-05
+https://github.com/baker-laboratory/rf_diffusion_all_atom,RFdiffusion All-Atom,https://github.com/ikalvet,github,https://github.com/ikalvet,,ikalvet,Indrek Kalvet,2024-03-07,2024-03-07
+https://github.com/baker-laboratory/rf_diffusion_all_atom,RFdiffusion All-Atom,https://github.com/r-krishna,github,https://github.com/r-krishna,,r-krishna,Rohith Krishna,2024-03-13,2024-03-13
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://github.com/dauparas,github,https://github.com/dauparas,,dauparas,Justas Dauparas,2022-05-26,2023-06-27
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://github.com/sokrypton,github,https://github.com/sokrypton,,sokrypton,Sergey Ovchinnikov,2022-06-05,2022-09-30
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://github.com/https://github.com/duerrsimon,github,https://github.com/https://github.com/duerrsimon,https://orcid.org/0000-0002-4304-8106,https://github.com/duerrsimon,https://github.com/duerrsimon,2022-06-06,2022-06-06
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://github.com/decarboxy,github,https://github.com/decarboxy,,decarboxy,Sam DeLuca,2022-07-27,2022-07-27
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://github.com/https://github.com/benf549,github,https://github.com/https://github.com/benf549,https://orcid.org/0000-0003-0981-9605,https://github.com/benf549,https://github.com/benf549,2022-08-17,2022-08-17
+https://github.com/dauparas/ProteinMPNN,ProteinMPNN,https://github.com/roccomoretti,github,https://github.com/roccomoretti,,roccomoretti,Rocco Moretti,2022-11-28,2022-11-28
+https://github.com/dauparas/LigandMPNN,LigandMPNN,https://github.com/dauparas,github,https://github.com/dauparas,,dauparas,Justas Dauparas,,
+https://github.com/dauparas/LigandMPNN,LigandMPNN,https://github.com/TheLostLambda,github,https://github.com/TheLostLambda,,TheLostLambda,Brooks Rady,,
+https://github.com/dauparas/LigandMPNN,LigandMPNN,https://github.com/jdauparas,github,https://github.com/jdauparas,,jdauparas,jdauparas,,
+https://github.com/generatebio/chroma,Chroma,https://github.com/aismail3-gnr8,github,https://github.com/aismail3-gnr8,,aismail3-gnr8,aismail3-gnr8,2023-11-15,2024-01-22
+https://github.com/generatebio/chroma,Chroma,https://github.com/frank-oplinger,github,https://github.com/frank-oplinger,,frank-oplinger,frank-oplinger,2023-11-15,2023-11-15
+https://github.com/generatebio/chroma,Chroma,https://github.com/zak-generate,github,https://github.com/zak-generate,,zak-generate,zak-generate,2023-11-15,2023-11-15
+https://github.com/generatebio/chroma,Chroma,https://github.com/wujiewang,github,https://github.com/wujiewang,,wujiewang,Wujie Wang,2023-11-17,2023-12-01
+https://github.com/ProteinDesignLab/protpardelle,Protpardelle,https://github.com/alexechu,github,https://github.com/alexechu,,alexechu,Alex Chu,2023-09-08,2024-03-29
+https://github.com/ProteinDesignLab/protpardelle,Protpardelle,https://github.com/https://github.com/duerrsimon,github,https://github.com/https://github.com/duerrsimon,https://orcid.org/0000-0002-4304-8106,https://github.com/duerrsimon,https://github.com/duerrsimon,2023-09-14,2023-09-14
+https://github.com/ProteinDesignLab/protpardelle,Protpardelle,https://github.com/zhkim216,github,https://github.com/zhkim216,,zhkim216,jinho,2024-07-09,2024-12-01
+https://github.com/ProteinDesignLab/protpardelle,Protpardelle,https://github.com/gelnesr,github,https://github.com/gelnesr,https://orcid.org/0000-0003-4857-9464,gelnesr,gelnesr,2025-02-18,2025-02-18
+https://github.com/ProteinDesignLab/protpardelle,Protpardelle,https://github.com/tianyu-lu,github,https://github.com/tianyu-lu,,tianyu-lu,Tianyu Lu,2025-08-27,2025-08-27
+https://github.com/jasonkyuyim/se3_diffusion,FrameDiff,https://github.com/jasonkyuyim,github,https://github.com/jasonkyuyim,https://orcid.org/0000-0003-0575-7400,jasonkyuyim,jasonkyuyim,2023-02-13,2023-07-03
+https://github.com/jasonkyuyim/se3_diffusion,FrameDiff,https://github.com/pengzhangzhi,github,https://github.com/pengzhangzhi,,pengzhangzhi,Fred,2023-04-15,2023-04-16
+https://github.com/jasonkyuyim/se3_diffusion,FrameDiff,https://github.com/Wangchentong,github,https://github.com/Wangchentong,,Wangchentong,Wangchentong,2023-05-09,2023-05-09
+https://github.com/jasonkyuyim/se3_diffusion,FrameDiff,https://github.com/amorehead,github,https://github.com/amorehead,https://orcid.org/0000-0002-0586-6191,amorehead,amorehead,2023-06-28,2023-06-28
+https://github.com/martinpacesa/BindCraft,BindCraft,https://github.com/martinpacesa,github,https://github.com/martinpacesa,https://orcid.org/0000-0003-1560-5769,martinpacesa,martinpacesa,2024-09-18,2026-05-11
+https://github.com/martinpacesa/BindCraft,BindCraft,https://github.com/kyleford8,github,https://github.com/kyleford8,,kyleford8,kyleford8,2024-10-24,2024-10-24
+https://github.com/sokrypton/ColabDesign,ColabDesign,https://github.com/sokrypton,github,https://github.com/sokrypton,,sokrypton,Sergey Ovchinnikov,2022-02-02,2025-10-23
+https://github.com/sokrypton/ColabDesign,ColabDesign,https://github.com/hunarbatra,github,https://github.com/hunarbatra,,hunarbatra,Hunar Batra,2022-08-17,2022-08-17
+https://github.com/sokrypton/ColabDesign,ColabDesign,https://github.com/andrewfavor95,github,https://github.com/andrewfavor95,,andrewfavor95,Andrew Favor,2022-09-10,2022-09-10
+https://github.com/sokrypton/ColabDesign,ColabDesign,https://github.com/KeaunAmani,github,https://github.com/KeaunAmani,,KeaunAmani,Keaun Amani,2023-07-12,2023-07-12
+https://github.com/sokrypton/ColabDesign,ColabDesign,https://github.com/stephen-rettie,github,https://github.com/stephen-rettie,,stephen-rettie,Stephen Rettie,2024-01-31,2024-02-01
+https://github.com/sokrypton/ColabDesign,ColabDesign,https://github.com/brennanaba,github,https://github.com/brennanaba,,brennanaba,Brennan Abanades Kenyon,2024-10-27,2024-10-27
+https://github.com/NatLabRockies/EvoProtGrad,EvoProtGrad,https://github.com/pemami4911,github,https://github.com/pemami4911,,pemami4911,Patrick Emami,2024-06-14,2024-08-06
+https://github.com/RosettaCommons/protein_generator,ProteinGenerator,https://github.com/SamTipps,github,https://github.com/SamTipps,,SamTipps,Sam Tipps,2023-07-01,2023-07-01
+https://github.com/RosettaCommons/protein_generator,ProteinGenerator,https://github.com/geraseva,github,https://github.com/geraseva,https://orcid.org/0009-0006-6656-8995,geraseva,geraseva,2024-10-10,2024-10-10
+https://github.com/DunbrackLab/IPSAE,ipSAE pipeline,https://github.com/liuqqq2019,github,https://github.com/liuqqq2019,,liuqqq2019,liuqqq,,
+https://github.com/DunbrackLab/IPSAE,ipSAE pipeline,https://github.com/dunbrack,github,https://github.com/dunbrack,,dunbrack,Roland Dunbrack,,
+https://github.com/DunbrackLab/IPSAE,ipSAE pipeline,https://github.com/chAwater,github,https://github.com/chAwater,,chAwater,hoho2b,,
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/tjbrunette,github,https://github.com/tjbrunette,,tjbrunette,TJ Brunette,,2021-11-12
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/lyskov,github,https://github.com/lyskov,,lyskov,Sergey Lyskov,2011-08-19,2026-05-13
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/aleaverfay,github,https://github.com/aleaverfay,,aleaverfay,Andrew Leaver-Fay,2011-08-19,2022-03-21
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/momeara,github,https://github.com/momeara,https://orcid.org/0000-0002-3128-5331,momeara,momeara,2011-08-20,2014-06-22
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/willsheffler,github,https://github.com/willsheffler,https://orcid.org/0000-0002-3659-9559,willsheffler,willsheffler,2011-08-21,2017-02-08
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/davidekim,github,https://github.com/davidekim,,davidekim,David E Kim,2011-08-23,2021-09-28
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/rhiju,github,https://github.com/rhiju,,rhiju,Rhiju Das,2011-08-24,2023-02-05
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/langeolli,github,https://github.com/langeolli,,langeolli,langeolli,2011-08-28,2014-05-18
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/roccomoretti,github,https://github.com/roccomoretti,,roccomoretti,Rocco Moretti,2011-09-01,2026-05-15
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/sarelf,github,https://github.com/sarelf,,sarelf,Sarel,2011-09-08,2015-08-21
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/fdimaio,github,https://github.com/fdimaio,,fdimaio,Frank DiMaio,2011-09-09,2023-11-28
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/glemmon,github,https://github.com/glemmon,,glemmon,Gordon Lemmon,2011-09-12,2013-08-19
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/smlewis,github,https://github.com/smlewis,,smlewis,Steven Lewis,2011-09-20,2022-06-21
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/stoneinter,github,https://github.com/stoneinter,,stoneinter,Lei Shi,2011-09-22,2014-02-22
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/possuhuang,github,https://github.com/possuhuang,,possuhuang,possu,2011-10-24,2017-12-22
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/mtyka,github,https://github.com/mtyka,,mtyka,Mike Tyka,2011-10-28,2013-08-16
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/jianqingxu,github,https://github.com/jianqingxu,,jianqingxu,Jianqing Xu,2011-12-10,2013-06-11
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/jadolfbr,github,https://github.com/jadolfbr,,jadolfbr,Jared Adolf-Bryfogle,2012-07-26,2023-09-19
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/tlinsky,github,https://github.com/tlinsky,,tlinsky,Thomas Linsky,2012-11-22,2021-03-25
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/gideonla,github,https://github.com/gideonla,,gideonla,GIdeon Lapidoth,2012-12-02,2018-12-14
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/weitzner,github,https://github.com/weitzner,,weitzner,Brian Weitzner,2013-05-01,2022-01-19
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/JWLabonte,github,https://github.com/JWLabonte,,JWLabonte,Labonte,2013-05-02,2022-06-15
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/vmullig,github,https://github.com/vmullig,,vmullig,Vikram K. Mulligan,2013-06-07,2023-08-18
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/hahnbeom,github,https://github.com/hahnbeom,,hahnbeom,Hahnbeom Park,2013-07-16,2020-05-29
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/everyday847,github,https://github.com/everyday847,,everyday847,Andy Watkins,2013-07-27,2023-08-23
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/rfalford12,github,https://github.com/rfalford12,,rfalford12,Rebecca Alford,2014-01-09,2019-10-29
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/jkleman,github,https://github.com/jkleman,,jkleman,Julia Koehler Leman,2014-03-16,2021-08-03
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/bcov77,github,https://github.com/bcov77,,bcov77,Brian Coventry,2017-06-17,2026-05-08
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/klimaj,github,https://github.com/klimaj,,klimaj,Jason C. Klima,2017-10-07,2026-05-18
+https://github.com/RosettaCommons/rosetta,Rosetta,https://github.com/JackMaguire,github,https://github.com/JackMaguire,,JackMaguire,Jack Maguire,2019-04-30,2025-02-04
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,https://github.com/lyskov,github,https://github.com/lyskov,,lyskov,Sergey Lyskov,2019-05-24,2026-02-27
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,https://github.com/kathyle9,github,https://github.com/kathyle9,,kathyle9,Kathy Le,2019-05-31,2024-01-22
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,https://github.com/JackMaguire,github,https://github.com/JackMaguire,,JackMaguire,Jack Maguire,2019-08-14,2019-12-11
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,https://github.com/jadolfbr,github,https://github.com/jadolfbr,,jadolfbr,Jared Adolf-Bryfogle,2019-08-28,2021-08-04
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,https://github.com/klimaj,github,https://github.com/klimaj,,klimaj,Jason C. Klima,2019-10-02,2020-09-21
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,https://github.com/ramyarangan,github,https://github.com/ramyarangan,,ramyarangan,Ramya Rangan,2019-11-04,2020-02-10
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,https://github.com/maa805,github,https://github.com/maa805,,maa805,Matt Adrianowycz,2019-11-05,2020-01-10
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,https://github.com/jjgray,github,https://github.com/jjgray,,jjgray,Jeffrey Gray,2020-01-08,2024-02-07
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,https://github.com/rfalford12,github,https://github.com/rfalford12,,rfalford12,Rebecca Alford,2020-01-22,2020-04-02
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,https://github.com/yuanhan-wu,github,https://github.com/yuanhan-wu,,yuanhan-wu,Yuanhan Wu,2020-02-27,2020-03-11
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,https://github.com/ajasja,github,https://github.com/ajasja,https://orcid.org/0000-0002-2171-1579,ajasja,ajasja,2020-03-06,2020-03-06
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,https://github.com/aloshbau,github,https://github.com/aloshbau,,aloshbau,Amanda Loshbaugh,2020-05-08,2020-05-19
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,https://github.com/aleaverfay,github,https://github.com/aleaverfay,,aleaverfay,Andrew Leaver-Fay,2021-03-02,2021-03-03
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,https://github.com/JWLabonte,github,https://github.com/JWLabonte,,JWLabonte,Labonte,2021-07-14,2021-07-14
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,https://github.com/kamurani,github,https://github.com/kamurani,,kamurani,Kâmuran İmran,2024-08-05,2024-08-05
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,https://github.com/roccomoretti,github,https://github.com/roccomoretti,,roccomoretti,Rocco Moretti,2024-08-12,2024-08-12
+https://github.com/RosettaCommons/PyRosetta.notebooks,PyRosetta,https://github.com/rclune,github,https://github.com/rclune,https://orcid.org/0000-0002-6183-6579,rclune,rclune,2026-02-05,2026-02-27
+https://github.com/biopython/biopython,Biopython,https://github.com/etal,github,https://github.com/etal,https://orcid.org/0000-0002-8106-0720,etal,etal,2009-05-06,2019-02-01
+https://github.com/biopython/biopython,Biopython,https://github.com/peterjc,github,https://github.com/peterjc,https://orcid.org/0000-0001-9513-9993,peterjc,peterjc,2009-05-15,2026-05-22
+https://github.com/biopython/biopython,Biopython,https://github.com/chapmanb,github,https://github.com/chapmanb,,chapmanb,Brad Chapman,2009-10-07,2016-02-18
+https://github.com/biopython/biopython,Biopython,https://github.com/tiagoantao,github,https://github.com/tiagoantao,https://orcid.org/0000-0002-7269-5513,tiagoantao,tiagoantao,2010-03-31,2017-05-24
+https://github.com/biopython/biopython,Biopython,https://github.com/pgarland,github,https://github.com/pgarland,,pgarland,Phillip Garland,2010-10-24,2013-06-28
+https://github.com/biopython/biopython,Biopython,https://github.com/brandoninvergo,github,https://github.com/brandoninvergo,,brandoninvergo,Brandon Invergo,2011-02-22,2019-03-15
+https://github.com/biopython/biopython,Biopython,https://github.com/DavidCain,github,https://github.com/DavidCain,,DavidCain,David Cain,2011-08-01,2024-05-12
+https://github.com/biopython/biopython,Biopython,https://github.com/bow,github,https://github.com/bow,https://orcid.org/0000-0003-0499-0948,bow,bow,2012-05-09,2023-11-19
+https://github.com/biopython/biopython,Biopython,https://github.com/BioGeek,github,https://github.com/BioGeek,https://orcid.org/0000-0003-4480-5567,BioGeek,BioGeek,2012-08-06,2017-11-06
+https://github.com/biopython/biopython,Biopython,https://github.com/mdehoon,github,https://github.com/mdehoon,https://orcid.org/0000-0003-0489-2352,mdehoon,mdehoon,2012-08-14,2026-04-14
+https://github.com/biopython/biopython,Biopython,https://github.com/cbrueffer,github,https://github.com/cbrueffer,https://orcid.org/0000-0002-3826-0989,cbrueffer,cbrueffer,2012-11-04,2022-05-05
+https://github.com/biopython/biopython,Biopython,https://github.com/bendmorris,github,https://github.com/bendmorris,,bendmorris,Ben Morris,2013-02-10,2013-08-26
+https://github.com/biopython/biopython,Biopython,https://github.com/vincentdavis,github,https://github.com/vincentdavis,,vincentdavis,Vincent,2013-12-27,2021-09-22
+https://github.com/biopython/biopython,Biopython,https://github.com/lijax,github,https://github.com/lijax,,lijax,yeyanbo,2014-01-16,2014-01-16
+https://github.com/biopython/biopython,Biopython,https://github.com/MarkusPiotrowski,github,https://github.com/MarkusPiotrowski,,MarkusPiotrowski,Markus Piotrowski,2014-03-27,2023-03-03
+https://github.com/biopython/biopython,Biopython,https://github.com/zruan,github,https://github.com/zruan,,zruan,Zheng Ruan,2014-04-20,2020-10-05
+https://github.com/biopython/biopython,Biopython,https://github.com/kblin,github,https://github.com/kblin,https://orcid.org/0000-0003-3764-6051,kblin,kblin,2014-07-05,2020-01-28
+https://github.com/biopython/biopython,Biopython,https://github.com/carlosp420,github,https://github.com/carlosp420,,carlosp420,Carlos Peña,2014-10-23,2020-07-11
+https://github.com/biopython/biopython,Biopython,https://github.com/https://github.com/JoaoRodrigues,github,https://github.com/https://github.com/JoaoRodrigues,https://orcid.org/0000-0001-9796-3193,https://github.com/JoaoRodrigues,https://github.com/JoaoRodrigues,2015-04-18,2025-07-03
+https://github.com/biopython/biopython,Biopython,https://github.com/StefansM,github,https://github.com/StefansM,,StefansM,Stefans Mezulis,2016-11-07,2018-10-26
+https://github.com/biopython/biopython,Biopython,https://github.com/Gasta88,github,https://github.com/Gasta88,,Gasta88,FGastaldello,2017-02-22,2018-05-31
+https://github.com/biopython/biopython,Biopython,https://github.com/chris-rands,github,https://github.com/chris-rands,,chris-rands,Chris Rands,2017-07-05,2021-09-11
+https://github.com/biopython/biopython,Biopython,https://github.com/jgreener64,github,https://github.com/jgreener64,,jgreener64,Joe Greener,2017-07-20,2023-04-05
+https://github.com/biopython/biopython,Biopython,https://github.com/Amrithasuresh,github,https://github.com/Amrithasuresh,https://orcid.org/0000-0001-9341-2861,Amrithasuresh,Amrithasuresh,2018-03-22,2019-12-23
+https://github.com/biopython/biopython,Biopython,https://github.com/svalqui,github,https://github.com/svalqui,,svalqui,Sergio,2018-07-11,2021-03-23
+https://github.com/biopython/biopython,Biopython,https://github.com/nimne,github,https://github.com/nimne,,nimne,Nick Negretti,2018-08-22,2019-09-05
+https://github.com/biopython/biopython,Biopython,https://github.com/rob-miller,github,https://github.com/rob-miller,,rob-miller,Rob Miller,2019-02-21,2025-10-10
+https://github.com/biopython/biopython,Biopython,https://github.com/gouttegd,github,https://github.com/gouttegd,https://orcid.org/0000-0002-6095-8718,gouttegd,gouttegd,2019-08-21,2025-10-01
+https://github.com/biopython/biopython,Biopython,https://github.com/jvfe,github,https://github.com/jvfe,https://orcid.org/0000-0001-7513-7376,jvfe,jvfe,2020-07-20,2020-07-25
+https://github.com/biopython/biopython,Biopython,https://github.com/drs,github,https://github.com/drs,,drs,Samuel Prince,2025-03-22,2025-03-22
+https://github.com/oxpig/ImmuneBuilder,ImmuneBuilder,https://github.com/FBoyles,github,https://github.com/FBoyles,,FBoyles,FBoyles,,
+https://github.com/oxpig/ImmuneBuilder,ImmuneBuilder,https://github.com/npqst,github,https://github.com/npqst,,npqst,npqst,,
+https://github.com/oxpig/ImmuneBuilder,ImmuneBuilder,https://github.com/prihoda,github,https://github.com/prihoda,,prihoda,David Příhoda,,
+https://github.com/oxpig/ImmuneBuilder,ImmuneBuilder,https://github.com/brennanaba,github,https://github.com/brennanaba,,brennanaba,Brennan Abanades Kenyon,,
+https://github.com/oxpig/ImmuneBuilder,ImmuneBuilder,https://github.com/jadolfbr,github,https://github.com/jadolfbr,,jadolfbr,Jared Adolf-Bryfogle,,
