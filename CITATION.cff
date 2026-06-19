@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "protein-design-tools"
+abstract: "Preliminary result of an analysis made with openpulse.science."
+authors:
+  - given-names: "Aruni"
+    family-names: "TODO: add last name"
+  - given-names: "Carlos"
+    family-names: "Vivar Rios"
+type: dataset
+license: MIT
+url: "https://github.com/asenarat/protein-design-tools"
+date-released: 2026-06-19
+version: "0.1.0"
