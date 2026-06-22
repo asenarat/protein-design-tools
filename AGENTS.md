@@ -1,6 +1,6 @@
-# CLAUDE.md — pulseWebKit (Open Pulse web app)
+# AGENTS.md — pulseWebKit (Open Pulse web app)
 
-Agent instructions for this repository. Read this first, then `.claude/PROJECT.md` for the broader mission, `.claude/SKILLS.md` for concrete task recipes, and the `frontend-dev` skill before touching any UI.
+Agent instructions for this repository. Read this first, then `.agents/PROJECT.md` for the broader mission, `.agents/SKILLS.md` for concrete task recipes, and the `frontend-dev` skill before touching any UI.
 
 <!-- sync:keep -->
 > **Note on dual agent dirs:** `.claude/` is the canonical source of truth for project docs and skills. `.agents/` (plus root `AGENTS.md`) is a generated, vendor-neutral mirror for non-Claude agent runtimes. **Edit `.claude/` only**, then run `node tools/sync-agents.mjs` to regenerate `.agents/`. CI fails if they drift (`node tools/sync-agents.mjs --check`).
@@ -14,9 +14,9 @@ Agent instructions for this repository. Read this first, then `.claude/PROJECT.m
 
 **pulseWebKit** (working name: *pulseNext*) — a starter that will be published as a **GitHub template repo** so researchers and developers can fork it to build their own dashboards or interactive sites on top of the **Open Pulse** platform.
 
-The Open Pulse platform (Neo4j + Oxigraph + OpenSearch) is the data layer; this kit demonstrates how to pull, type, and visualise variables from it. See `.claude/PROJECT.md` for the full mission, data-source overview, and template-extension guidance.
+The Open Pulse platform (Neo4j + Oxigraph + OpenSearch) is the data layer; this kit demonstrates how to pull, type, and visualise variables from it. See `.agents/PROJECT.md` for the full mission, data-source overview, and template-extension guidance.
 
-**Framework-neutral.** This template does **not** prescribe a UI framework. The web app lives in `src/your-web/` — build it with whatever you like (plain HTML, React, Vue, Svelte, Astro, web components, …). The two things that *are* fixed are framework-independent: the **Open Pulse query skills** (`.claude/skills/`) and the **SDSC design system** (the `frontend-dev` skill, defined as CSS custom properties + HTML/CSS). Keep those; swap everything else.
+**Framework-neutral.** This template does **not** prescribe a UI framework. The web app lives in `src/your-web/` — build it with whatever you like (plain HTML, React, Vue, Svelte, Astro, web components, …). The two things that *are* fixed are framework-independent: the **Open Pulse query skills** (`.agents/skills/`) and the **SDSC design system** (the `frontend-dev` skill, defined as CSS custom properties + HTML/CSS). Keep those; swap everything else.
 
 ---
 
@@ -65,7 +65,7 @@ If your stack has a type/lint check, run it before every commit; CI runs it on e
 
 ## UI verification — REQUIRED for frontend work
 
-This repo ships **Playwright MCP** (`@playwright/mcp`) for UI verification, enabled via `.claude/settings.json` (`enabledMcpjsonServers: ["playwright"]`). Config is port-locked to the local dev/preview servers (`5173`, `4173`).
+This repo ships **Playwright MCP** (`@playwright/mcp`) for UI verification, enabled via `.agents/settings.json` (`enabledMcpjsonServers: ["playwright"]`). Config is port-locked to the local dev/preview servers (`5173`, `4173`).
 
 | Runtime | Active config | How it runs |
 |---|---|---|
@@ -89,20 +89,20 @@ A type-check is a correctness gate, **not** a feature-correctness gate. Do not c
 
 ```
 open-pulse-webkit/
-├── .claude/            # canonical agent config (EDIT HERE)
+├── .agents/            # canonical agent config (EDIT HERE)
 │   ├── PROJECT.md      #   mission + data-source overview
 │   ├── SKILLS.md       #   concrete task recipes
 │   ├── settings.json   #   permissions + enabled MCP servers
 │   └── skills/         #   the 9 skills (frontend-dev + query-* + op-*)
 ├── .agents/            # generated mirror for AGENTS.md-standard tools + Pi (DO NOT EDIT)
-├── CLAUDE.md           # this file (canonical conventions)
-├── AGENTS.md           # generated mirror of CLAUDE.md
+├── AGENTS.md           # this file (canonical conventions)
+├── AGENTS.md           # generated mirror of AGENTS.md
 ├── .mcp.json           # Playwright MCP (active; host default — see .mcp.host.json / .mcp.docker.json)
 ├── .devcontainer/      # devcontainer entry (compose lives in tools/image/docker/)
 ├── .env.example        # Open Pulse endpoints + credentials
 ├── tools/
 │   ├── image/docker/   # Ubuntu dev image + playwright-mcp sidecar compose
-│   └── sync-agents.mjs # regenerates .agents/ from .claude/
+│   └── sync-agents.mjs # regenerates .agents/ from .agents/
 └── src/
     └── your-web/       # ← your web app (scaffold it here)
 ```
@@ -119,7 +119,7 @@ open-pulse-webkit/
 | **Oxigraph / SPARQL** (`:7502`, Caddy basic-auth) | RDF metadata (~2.45M triples); default-graph or named-graph (`…/graph/{YYYY-MM}/hybrid`) queries | Skill `query-sparql` |
 | **OpenSearch** (`:9200`, self-signed TLS) | GrimoireLab-enriched docs | Skill `query-opensearch` |
 
-There are also higher-level hub skills (`op-collections`, `op-search`, `query-chaoss`, `op-crawler`, `op-extractor`). See `.claude/SKILLS.md` and each skill's `SKILL.md`.
+There are also higher-level hub skills (`op-collections`, `op-search`, `query-chaoss`, `op-crawler`, `op-extractor`). See `.agents/SKILLS.md` and each skill's `SKILL.md`.
 
 **Browser code must never hit these stores directly.** Credentials are server-side only. Route every request through a server-side endpoint (a serverless function, a small API, or your framework's server route) that holds the credentials and proxies to Neo4j/SPARQL/OpenSearch. The browser only ever talks to your own endpoint.
 
@@ -145,7 +145,7 @@ Read the `frontend-dev` skill before writing any UI code. Key rules:
 
 ## Dev notes
 
-- **Editing agent config:** edit `.claude/` only, then run `node tools/sync-agents.mjs` to regenerate `.agents/` + `AGENTS.md`. CI (`agents-sync` job) fails if they drift.
+- **Editing agent config:** edit `.agents/` only, then run `node tools/sync-agents.mjs` to regenerate `.agents/` + `AGENTS.md`. CI (`agents-sync` job) fails if they drift.
 - **Node on PATH:** the sync script needs Node. If `node` isn't on your PATH, invoke it with a full path to any local Node binary (CI uses its own Node, so this is a local-only concern).
 - **Skills need `.env`:** the `query-*` / `op-*` skills read endpoints + credentials from `.env` at the repo root. Copy `.env.example` → `.env` and fill it in. Never commit `.env`.
 - **Publishing:** the app is intended to be published to **GitHub Pages** as a static site — see the README's *Publishing to GitHub Pages* section. (There is no public dev tunnel; that infrastructure was removed.)

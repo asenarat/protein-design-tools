@@ -104,11 +104,11 @@ Neo4j, never OpenSearch.
 - **Owner→repos for several orgs at once**: `MATCH (o:Org)-[:OWNS]->(r:Repo) WHERE o.login IN $logins RETURN o.login, r.full_name` — the basis for org-scoped catalogs.
 - **PR/issue/review/comment metrics**: always come from the edge types above. Count `DISTINCT u` for "people" and `count(*)` for "events"; there is no event date to bucket by.
 - **`DEPENDS_ON` is large** (~259k). Always scope it to a seed set (`WHERE r.full_name IN $urls`) and add `LIMIT`, or it returns the whole ecosystem.
-- **Affiliations**: `(:User)-[:AFFILIATED_WITH]->(:RorOrg)` mirrors the SPARQL `org:hasMembership` data; institutions are ROR-identified in both stores.
+- **Affiliations**: `(:User)-[:AFFILIATED_WITH]->(:RorOrg)` mirrors the SPARQL `org:hasMembership` data (default graph or `GRAPH <…/graph/{YYYY-MM}/hybrid>`); institutions are ROR-identified in both stores. See `query-sparql` for default vs named-graph modes.
 
 ## Conventions
 
 - Always include `LIMIT` on exploratory queries — the graph has hundreds of thousands of nodes.
-- Prefer Python `query.py` for one-off shell work; use `query.mjs` when integrating with the dashboard codebase.
+- Prefer Python `query.py` for one-off shell work; use `query.mjs` when integrating with the web app codebase.
 - Bolt access (the `:7504` port) needs a real driver. Both scripts use the HTTP endpoint instead so they have zero install footprint.
 - The TLS cert (if you switch to https) is self-signed; on plain `http://` no TLS is involved.
